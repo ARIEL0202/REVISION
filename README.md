@@ -21,7 +21,10 @@ https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXM71fy0HOw/movieposter.jpg", Redada Asesina | 
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
-#EXTINF:-1,  VOLVER AL FUTURO3
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="SPANISH",Back to the Future Part II (1989)
+https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+
+#EXTINF:-1,  VOLVER AL FUTURO 3
 https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
 
 #EXTINF:-1, CASTILLO DE ARENA (2017)
@@ -33,12 +36,6 @@ http://bit.ly/THEMINE
 #EXTINF:-1 tvg-logo="http://bit.ly/PORTWEXLER" group-title="ESTRENOS", Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
 
-#EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="SPANISH",Sahara (2017)
-https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="SPANISH",Sand Castle (2017)
-https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
-
 #EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="SPANISH",Angry Birds (2016)
 https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
 
@@ -48,113 +45,475 @@ https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp
 #EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
 https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
 
-
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5IXW1z126JY/VPzaAskZpKI/AAAAAAAAAlg/XGa7cO82ek0/s1600/TheCrazies-2010.jpg" group-title="SPANISH",The Crazies (2010) [NoKodi]
-http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
-
 #EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="SPANISH",Under the Sea 3D (2009)
 https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KChu8wf5eVo/movieposter.jpg" group-title="SPANISH",The Hurt Locker (2008) [NoKodi]
-http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-bourne-ultimatum-2007/large_fHho6JYYY0nRcETWSoeI19iZsNF.jpg" group-title="SPANISH",The Bourne Ultimatum (2007)
-https://archive.org/download/The.Bourne.Ultimatum.2007.1080p.Latino/The.Bourne.Ultimatum.2007.1080p.Latino.www.peliculashdmega.com.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-pink-panther-2006.17739.jpg" group-title="SPANISH",The Pink Panther (2006) [NoKodi]
-http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/cursed.24994.jpg" group-title="SPANISH",Cursed (2005) [NoKodi]
-http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="http://imgur.com/BdUdrCr.jpg" group-title="SPANISH",Harry Potter and the Goblet of Fire (2005)
-https://ia800604.us.archive.org/2/items/10052017AQH410052017h4/10052017_AQ_H4.mkv
-
-#EXTINF:-1 tvg-logo="http://i.ebayimg.com/images/i/122242475766-0-1/s-l1000.jpg" group-title="SPANISH",Lord of War (2005) [NoKodi]
-http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Crash_ver2.jpg" group-title="SPANISH",Crash (2004) [NoKodi]
-http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4
-
-#EXTINF:-1 tvg-logo="http://imgur.com/imePAPq.jpg" group-title="SPANISH",Harry Potter and the Sorcerer's Stone (2001)
-https://ia800603.us.archive.org/27/items/10052017Aqc710052017aqc/10052017_aqc.mkv
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/the-accidental-spy-dak-miu-mai-shing.29771.jpg" group-title="SPANISH",The Accidental Spy (2001) [NoKodi]
-http://media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/loser-2000/large_b3aYI05e1iAc7ouFeBpSUQADxsi.jpg" group-title="SPANISH",Loser (2000) [NoKodi]
-http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="SPANISH",La Vendedora de Rosas (1998)
-https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="http://images2.static-bluray.com/products/20/8213_2_large.jpg" group-title="SPANISH",Dennis the Menace (1993)
-https://ia600605.us.archive.org/3/items/31052017_201705678678687687/31052017.mkv
 
 #EXTINF:-1 tvg-logo="http://horror.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/childs-play-2-poster.jpg" group-title="SPANISH",Child's Play 2 (1990)
 https://ia801609.us.archive.org/33/items/08052017Ch2320170508/08052017_ch23.mkv
 
-#EXTINF:-1 tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg" group-title="SPANISH",Rodrigo D - No futuro (1990)
-https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
-
-#EXTINF:-1 tvg-logo="https://i.jeded.com/i/back-to-the-future-part-ll.12429.jpg" group-title="SPANISH",Back to the Future Part II (1989)
-https://ia801303.us.archive.org/13/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/childs-play-1988/large_6r9MOdGpOpSTH4jCQemyhPOHbZn.jpg" group-title="SPANISH",Child's Play (1988)
 https://ia800604.us.archive.org/29/items/080520712070508aCh/08052071.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kK9a9VBIjmh7L2uJvR01RUfS4eT.jpg" group-title="SPANISH",Porky's Revenge (1985)
-https://ia801505.us.archive.org/6/items/6062017Aqc88742897489237/6062017_aqc.avi
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e0/51/ef/e051ef812fe31e51cef7114c6f21c541.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: EL MAL DENTRO 2017
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
 
-#EXTINF:-1 tvg-logo="https://filmxposure.files.wordpress.com/2016/06/poster-mansion.jpg" group-title="SPANISH",La Mansion de Araucaima (1986)
-https://archive.org/download/LaMansionDeAraucaima1986PeliculaRestauradaEnFULHD/La%20Mansión%20de%20Araucaima%201986%20-%20Pelicula%20Restaurada%20en%20FUL%20HD.mp4
+#EXTINF:-1,La Forma del Agua SUBTITULADO |
+https://archive.org/download/ThSRREGIO_201802/ThSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="http://blog.mrcostumes.com/wp-content/uploads/halloween-movie-poster.jpg" group-title="SPANISH",Halloween (1978)
-http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+#EXTINF:-1,La Fuerza De La Ilusion |
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hnOzaz.png" group-title="SPANISH",Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1,Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 
-#EXTINF:-1 tvg-logo="https://ringostrack.com/bundles/soundtrackindex/img/cover/28971_la-presidenta-municipal.jpg" group-title="SPANISH",La Presidenta Municipal (1975)
-https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
+#EXTINF:-1,Varias Lat:Colossal
+http://ow.ly/FXZ930eWtrs
 
-#EXTINF:-1 tvg-logo="https://imgur.com/dM4R0r1.jpg" group-title="SPANISH",El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kpaLtXk.jpg" group-title="SPANISH",Caperucita y Pulgarcito Contra los Monstruos (1960)
-https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  CHUCKY EL MUNHECO DIABOLICO (TERROR)
+http://bit.ly/MRAQCCHUCK
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/fc/El_dolor_de_pagar_la_renta.jpg/200px-El_dolor_de_pagar_la_renta.jpg" group-title="SPANISH",El Dolor de Pagar la Renta (1960)
-https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
+#EXTINF:0 tvg-logo="http://turquesapop.fm/wp-content/uploads/2018/01/when-we-met-poster.jpg", Cuando nos Conocimos | .
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://imgur.com/U9RiSMD.jpg" group-title="SPANISH",Macario (1960)
-https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
+#EXTINF:0 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO | .
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/angelitos_del_trapecio-167118603-mmed.jpg" group-title="SPANISH",Angelitos del Trapecio (1959)
-https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/e4BzmDB.jpg" group-title="SPANISH",Yo Soy Muy Macho (1953)
-https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/gVCnp2P.jpg" group-title="SPANISH",El Bello Durmiente (1952)
-https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OOGQjcp.jpg" group-title="SPANISH",Simbad el Mareado (1950)
-https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hD6D7rwyrbI/T8GpYlkl2wI/AAAAAAAAAbE/lW9onkroT6o/s1600/El+Gran+Robo.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE. EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
 
-#EXTINF:-1 tvg-logo="https://imgur.com/lzZMzXw.jpg" group-title="SPANISH",La Familia Perez (1949)
-https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dead_again_in_tombstone-246953069-large.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: DEAD AGAIN IN TOMBSTONE
+https://ia601501.us.archive.org/3/items/1960196002/1960-196002.mkv?earMy.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JzyYqis.jpg" group-title="SPANISH",Los Tres Huastecos (1948)
-https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/zombies-fanon/images/e/e1/Wawis_el-dia-del-apocalipsis.jpg/revision/latest?cb=20140925005657&path-prefix=es" group-title="VOD FREE IPTV Evolución", VOD FREE: EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
 
-#EXTINF:-1 tvg-logo="https://imgur.com/aOy8B0T.jpg" group-title="SPANISH",Nosotros - los Pobres (1948)
-https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G98R2WReTKs/maxresdefault.jpg" group-title="VOD FREE IPTV Evolución", VOD FREE: MATRIX
+http://www.deadlyblogger.com/NewRelease/matrix1.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9ZOU6Hq.jpg" group-title="SPANISH",Si Adelita se Fuera con Otro (1948)
-https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
+#EXTINF: -1, ELLA EN MI CUERPO Y EL EN EL MIO
+https://ia600801.us.archive.org/35/items/EllaEnMiCuerpoYElEnElMio/ella%20en%20mi%20cuerpo%20y%20el%20en%20el%20mio.mp4
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3S8RST5.jpg" group-title="SPANISH",Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
+#EXTINF: -1, ELLOS SIEMPRE REGRESAN
+https://ia800800.us.archive.org/18/items/StephenKingEllosSiempreRegresan/Stephen%20King%20%20%20Ellos%20siempre%20regresan.mp4
+
+#EXTINF:-1,Kurt Cobain: Montage of Heck
+https://cdn.pavideohost.com/contents/s/f8/bf/ef/87176e28b664c08d498c486fda/720p/01316773599972.mp4
+
+#EXTINF:-1,Varias Lat:Alien Covenant
+http://ow.ly/SgXZ30eXN93
+
+#EXTINF:-1,Varias Lat:Huye
+http://ow.ly/3a9530eXgFk
+
+#EXTINF:-1,Varias Lat:La Momia 2017
+http://ow.ly/rSYw30eS9p5
+
+#EXTINF:-1,Pesadilla Siniestra |
+http://regiotv.xyz/pesadillasiniestra
+
+#EXTINF:-1,Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:0,POWER HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,Samson |
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1,La Leyenda de la Nahuala |
+https://bit.ly/2wBzaYz
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  ASESINO DE LA CARRETERA
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  DANIEL EL TRAVIESO (CLASICA)
+http://bit.ly/DANIELELTRAVIESO_MOVIE
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EL SEÑOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EL MENSAJERO DE LA OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  FIESTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  HALLOWEEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  ILUSIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA MARCA DE LA BESTIA
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  PERFUME
+http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  ROBOCOP DEFENSOR DEL FUTURO
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  ZONA DE MIEDO
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?
+
+#EXTINF:-1,Talento De Barrio |
+http://regiotv.xyz/talentodebarrio
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CEMENTERIO DE MASCOTAS (TERROR)
+http://bit.ly/MRAQCCEMEN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL NIÑO DE LA PIJAMA A RAYAS
+https://goo.gl/hclbHa
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA BELLA Y LA BESTIA (INFANTIL)
+http://bit.ly/MRAQCBELLA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  RETURN TO HORROR HIGH (TERROR)
+http://bit.ly/ReturntoHorrorHigh
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SPECTRE
+https://goo.gl/3KGMLf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  BLOOD IN BLOOD OUT/ VATOS LOCOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EL MENSAJERO DE LA OSCURIDAD 2002
+http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  EN EL CORAZON DEL MAR
+https://goo.gl/4BqODN
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HORAS CONTADAS
+https://goo.gl/SyvNCX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA CHICA DANESA
+https://goo.gl/nQXbQ5
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  LA MALDICION EL INICIO DEL FIN
+https://goo.gl/gWJEZq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  MI ABUELO ES UN PELIGRO
+https://goo.gl/KYCQoX
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SADAKO Y KAYAKO
+https://goo.gl/iU1U32
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  SINIESTRO
+https://goo.gl/F5NCPj
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category",  UN VUELO DE LOCURA
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+
+#EXTINF:0 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg", Todo El Dinero Del Mundo | .
+http://regiotv.xyz/todoeldinerodelmundo
+
+#EXTINF:0 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound | .
+http://srregio.xyz/mudbound
+
+#EXTINF:0 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST | .
+http://srregio.xyz/insidecast
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured | .
+http://srregio.xyz/thecure
+
+#EXTINF:0 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extraños | .
+http://regiotv.xyz/losextranos
+
+#EXTINF:0 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin | .
+http://regiotv.xyz/christoperrobin
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB | .
+http://regiotv.xyz/momanddad
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad | .
+http://regiotv.xyz/momanddadLAT
+
+#EXTINF:0 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB | .
+http://regiotv.xyz/24hrssobrevivir
+
+#EXTINF:0 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso | .
+https://bit.ly/2GajoTS
+
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino | .
+https://bit.ly/2wBG4x8
+
+#EXTINF:0 tvg-logo="https://larryfire.files.wordpress.com/2016/09/18.jpg", Doctor Strange | .
+https://ia801505.us.archive.org/11/items/dsSRREGIO/dsSRREGIO.mp4
+
+#EXTINF:0 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg", Konvert SUBTITULADO | .
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/e3/be/cf/e3becf68be3b70267da3bc3def5ed075.jpg", Civil War | .
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="https://vignette2.wikia.nocookie.net/doblaje/images/b/b3/Fragile-2.jpg/revision/latest?cb=20131104070609&path-prefix=es", Fragiles | .
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/gam_man_da_song_si-869494436-large.jpg", Zombiology | .
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg", La Noche de la Bruja | .
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:0 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg", Quija | .
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="https://imagessl6.casadellibro.com/m/ig/6/2650976.jpg", El Rostro De Un Angel | .
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+
+#EXTINF:0 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | .
+https://goo.gl/sFaEVq
+
+#EXTINF:0 tvg-logo="http://www.leelibros.com/biblioteca/files/images/El_Cementerio_Viviente.jpg", Cementerio de Mascotas | .
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+
+#EXTINF:-1, WONDER WOMAN
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:-1,LOS POWER RANGERS
+http://bit.ly/2gbHp2p?JoCaRoMovie
+
+#EXTINF:-1, COLORS
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+
+#EXTINF:-1 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/05/C_kA36TXgAAyKf_.jpg" group-title="CINE", Wonder Woman 2017
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/05/Alien-Covenant-2.jpg?resize=503%2C755" group-title="CINE", Alien Covenant (2017)
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg" group-title="CINE", Amytiville El Despertar
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="CINE", Jeepers Creepers 3
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://www.aytojaen.es/portal/RecursosWeb/IMAGENES/1/0_16765_1.jpg" group-title="CINE", Valerian y la ciudad de los mil planetas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/a2/5f/28/a25f2804fc990551b81458dc2c261140.jpg" group-title="CINE", Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1,Annabelle La Creacion
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+
+#EXTINF:-1,Pitufos 3 La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:-1,Cars 2
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-hD6D7rwyrbI/T8GpYlkl2wI/AAAAAAAAAbE/lW9onkroT6o/s1600/El+Gran+Robo.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE. EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,Una Loca Pelicula de The Walking Dead |
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+
+#EXTINF:-1,Varias Lat:Todo Todo
+http://ow.ly/tlKB30eS9pK
+
+#EXTINF:-1,Varias Lat:Un Saco De Canicas
+http://ow.ly/v7hc30eVA0P
+
+#EXTINF:-1,Varias Lat:Yo antes de Ti
+http://ow.ly/1Ud130eSgQq
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/dead_again_in_tombstone-246953069-large.jpg" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: DEAD AGAIN IN TOMBSTONE
+https://ia601501.us.archive.org/3/items/1960196002/1960-196002.mkv?earMy.mp4
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/zombies-fanon/images/e/e1/Wawis_el-dia-del-apocalipsis.jpg/revision/latest?cb=20140925005657&path-prefix=es" group-title="VOD FREE IPTV EvoluciÃ³n", VOD FREE: EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,Anon |
+http://srregio.xyz/regioflix/anon
+
+#EXTINF:-1,Estrenos:Espiando A Los Vecinos
+http://cecegeek@goo.gl/n6SNxR
+
+#EXTINF:-1,Estrenos:Moana
+http://cecegeek@goo.gl/FQ2PRH
+
+#EXTINF:-1,Mom & Dad |
+http://regiotv.xyz/momanddadLAT
+
+#EXTINF:-1,Mom & Dad SUB |
+http://regiotv.xyz/momanddad
+
+#EXTINF:-1,PELICULA - LIFE VIDA INTELIGENTE (2017)
+https://ia801507.us.archive.org/20/items/Life2017_20017081/Life%202017.mp4?Pelixmax1.mp4
+
+#EXTINF:-1,PELICULA - VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1,PELICULA AMYTIVILLE EL DESPERAR
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+#EXTINF:-1,Pesadilla Siniestra |
+http://regiotv.xyz/pesadillasiniestra
+
+#EXTINF:-1,ROBOCOP
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,Samson |
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1,Terror en la Oscuridad CAST |
+http://srregio.xyz/insidecast
+
+#EXTINF:-1,Todo El Dinero Del Mundo |
+http://regiotv.xyz/todoeldinerodelmundo
+
+#EXTINF:-1,Todo Poderoso |
+https://bit.ly/2GajoTS
+
+#EXTINF:-1,Todo Todo
+http://cecegeek@goo.gl/mnzQRk
+
+#EXTINF:-1,Todo todo 2017
+https://ia801503.us.archive.org/9/items/NadaNadaIverso/Nada%20Nada%20Iverso.mp4?Pelixmax1.mp4
+
+#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2017/11/todo-el-dinero-del-mundo.jpg", Todo El Dinero Del Mundo | SRREGIO.NET
+http://regiotv.xyz/todoeldinerodelmundo
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/house_of_the_witch_night_of_the_witch_tv-754308582-large.jpg", La Noche de la Bruja | SRREGIO.NET  
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://cdn.bloody-disgusting.com/wp-content/uploads/2016/08/ouija_two_ver4_xlg.jpg", Quija | SRREGIO.NET  
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg", Jeepers Creepers 3 | SRREGIO.NET  
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/09/06/11/27/0502981.jpg", Wheelman | SRREGIO.NET  
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+
+#EXTINF:-1 tvg-logo="http://www.dreadcentral.com/wp-content/uploads/2016/03/amityville_the_awakening.jpg", Amytiville El Despertar | SRREGIO.NET  
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/L.O.R.D_Legend_of_Ravaging_Dynasties_poster.jpeg", L.O.R.D The Legend Of Ravaging Dynasties | SRREGIO.NET  
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+
+#EXTINF:-1 tvg-logo="https://imgc.allpostersimages.com/img/print/posters/remember-the-titans_a-G-8032900-0.jpg", Duelo de Titanes | SRREGIO.NET  
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://photos1.blogger.com/blogger/3339/858/1600/rv_bigreleaseposter.jpg", Locas Vacaciones Sobre Ruedas | SRREGIO.NET  
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-8liUO6T7xKk/WN6efg85dzI/AAAAAAAAT6k/lpWPvh7Bkogfe6YzYKSzuvaFWcUjqjVIwCK4B/s1600/17492367_1249808975105083_2074598002289798083_o.jpg", Annabelle La Creacion | SRREGIO.NET  
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/61/55/32/61553207d1d9594c8d0313fcdd145d63.jpg", Colors CASTELLANO | SRREGIO.NET  
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+
+#EXTINF:-1, La Morgue 2016
+https://ia601503.us.archive.org/32/items/Morgue20016PelixMax-1/Morgue20016.mp4
+
+#EXTINF:-1, Passengers
+http://ow.ly/wVcb30f3tGU?CONEXION?null=?avi?earMy.mp4
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-WmlZdLTkg5s/Ug5y1EJfrsI/AAAAAAAAONQ/76mCpnlwIsE/s1600/lspc.jpg" group-title="Without category", LA SEPTIMA PROFECIA (1988)
+https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12T0cQPE4NyULAi3H1Q8urX3YcYwqWPAHt5OjP-epgQ-rmDiB" group-title="Without category",  EL MENSAJERO DE LA OSCURIDAD (2002)
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+
+#EXTINF:-1 tvg-logo="http://images2.static-bluray.com/products/20/8715_1_front.jpg" group-title="Without category",  ASESINO DE LA CARRETERA (2007)
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1 tvg-logo="https://playmax.xyz/img/c/400/1/1448300621/331.jpg" group-title="Without category",  SOBRENATURAL (2007)
+https://ia801507.us.archive.org/8/items/LaNiebla2007/La%20niebla%202007.mp4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIz9jt52Ak-r69CsSPs42rj-K4-JgnkybudpCIN3FoLyqtwywY" group-title="Without category",  MIVILLANO FAVORITO 3
+http://cecegeek@goo.gl/MLYHNw
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/yo-antes-de-ti-emilia-clarke-pelicula-dvd-D_NQ_NP_463505-MLM25048120742_092016-F.jpg" group-title="Without category",  YO ANTES DE TI
+http://ow.ly/1Ud130eSgQq
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81whe26CR8L._SL1500_.jpg" group-title="Without category",  DUMBO
+http://cecegeek@goo.gl/Aq4EDQ
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81apQUeSDrL._SY445_.jpg" group-title="Without category",  GEORGE DE LA SELVA
+http://cecegeek@goo.gl/GiHBk5
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWO0OnXm1O15GKljA0bAAgP1wg7veJIqoKoyT-nAgm8DTpQVAd" group-title="Without category",  ALTO IMPACTO
+http://media-es-am.crackle.com/1/l/j0/oghyk_480p_1mbps.mp4
+
+#EXTINF:-1,pikacu
+http://bit.ly/23KJOU3
+
+#EXTINF:-1,pac-man
+http://bit.ly/1QHPOG4
+
+#EXTINF:-1,marvel heros
+http://bit.ly/1TGa5P9
+
+#EXTINF:-1,marvel heros
+http://bit.ly/1nP8dYr   
+
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 1
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 2
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 4
+http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 5
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 7
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 10
+http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+
+
 
