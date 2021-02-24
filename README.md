@@ -33,62 +33,25 @@ http://bit.ly/THEMINE
 #EXTINF:-1 tvg-logo="http://bit.ly/PORTWEXLER" group-title="ESTRENOS", Sandy Wexler (2017)
 http://bit.ly/MRAQCSAND
 
-#EXTINF:-1 tvg-logo="https://usercontent2.hubstatic.com/13466999.jpg" group-title="SPANISH",Beauty and the Beast (2017)
-https://ia800603.us.archive.org/29/items/06052017MYO5MYO06052017/06052017_MYO5.mkv
-
 #EXTINF:-1 tvg-logo="http://www.zoom.lk/forums/downloads/subs/Sahara17/tanva10.jpg" group-title="SPANISH",Sahara (2017)
 https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4
 
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/sand-castle.76181.jpg" group-title="SPANISH",Sand Castle (2017)
 https://ia600603.us.archive.org/35/items/08052017CAQM8844JR8HF/08052017CAQM.mkv
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-YaCxu1RWA5I/WQCq6mASo0I/AAAAAAAAYdc/TI9FfL_x1uUBijtS37W_ntkieg8B5igTgCLcB/s1600/Sandy%2BWexler.jpg" group-title="SPANISH",Sandy Wexler (2017)
-https://ia800605.us.archive.org/27/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv
-
 #EXTINF:-1 tvg-logo="https://zapodaj.net/images/c25c2d5584bf4.jpg" group-title="SPANISH",Angry Birds (2016)
 https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
-
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
-https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
-
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)*
-https://archive.org/download/BadSanta22016UNRATED1080pSinFranjas/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20sin%20franjas.mp4
-
-#EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)**
-https://archive.org/download/BadSanta22016UNRATED1080pFULLHD/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20FULL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/walt-disney-pictures/moana-poster-8.jpg" group-title="SPANISH",Moana (2016)*
-https://archive.org/download/Https17wy0v0.oloadcdn.netdll9mAx-0JXB8-kGA77J3DnLakkrJIM0AN.1080P.Latino-PY.mkv.mp4mimetrue/https17wy0v0.oloadcdn.netdll9mAx-0JXB8-kGA77J3DnLakkrJIM0AN.1080P.Latino-PY.mkv.mp4mime%3Dtrue.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg" group-title="SPANISH",Nocturnal Animals (2016)
-https://archive.org/download/NocturnalAnimals20161080pFULLHD/Nocturnal%20Animals%20(2016)%201080p%20FULL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w325/6yf5tQgzbLj1HomN6vGqfBggpx9.jpg" group-title="SPANISH",Nocturnal Animals (2016)*
-https://archive.org/download/NocturnalAnimals20161080p60FPS/Nocturnal%20Animals%20(2016)%201080p%2060%20FPS.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/A1sHSnRBjxL._SL1500_.jpg" group-title="SPANISH",Pet (2016)
 https://ia800606.us.archive.org/26/items/12052017ffsdf345345345/12052017ffsdf.mp4
 
-#EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="SPANISH",Rules Don't Apply (2016)
-https://archive.org/download/RulesDontApply20161080pFULLHD/Rules%20Dont%20Apply%20(2016)%201080p%20FULL%20HD.mp4
-
-#EXTINF:-1 tvg-logo="http://s1.evcdn.com/images/movieposter249by373/movies/162960/162960_aa.jpg" group-title="SPANISH",Rules Don't Apply (2016)*
-https://archive.org/download/RulesDontApply20161080p60FPS/Rules%20Dont%20Apply%20(2016)%201080p%2060%20FPS.mp4
-
-#EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/07/Ant-Man-2015-cover.jpg" group-title="SPANISH",Ant Man (2015)
-https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JP0skqO.jpg" group-title="SPANISH",Furious 7 (2015)
-https://archive.org/download/FastFurious72015WebHD1080pX264LATINOEngHDLatino4U/Fast%20&%20Furious%207%20[2015]%20WebHD%201080p%20x264%20[LATINO%2BEng]%20HDLatino4U.mp4
-
 #EXTINF:-1 tvg-logo="https://sarahblogger94.files.wordpress.com/2016/08/purge_poster.jpg" group-title="SPANISH",The Purge (2013)
 https://archive.org/download/The.Purge.1080p.latino/The.Purge.1080p.latino.mp4
 
-#EXTINF:-1 tvg-logo="http://entertainment.blogs.uatu.net/files/2014/03/elysium-poster.jpg" group-title="SPANISH",Elysium (2013)
-https://dl.dropbox.com/s/rfxlxf1qq8nv6vs/Elysium%20%282013%29.mkv
+
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-5IXW1z126JY/VPzaAskZpKI/AAAAAAAAAlg/XGa7cO82ek0/s1600/TheCrazies-2010.jpg" group-title="SPANISH",The Crazies (2010) [NoKodi]
-http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
 
 #EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="SPANISH",Under the Sea 3D (2009)
 https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
