@@ -1,382 +1,199 @@
-#EXTINF:-1 tvg-id="" tvg-name="Best F(r)iends: Volume One -n" tvg-logo="http://gangatvbox.com:25461/images/uwd4qZ6hr13m3txjqyQtPJZKbyd_small.jpg" group-title="(Pelis) Estrenos 2018",Best F(r)iends: Volume One -n
-http://gangatvbox.com:25461/movie/1/gangatv/17860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Mirror Bandersnatch 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/fR0VZ0VE598zl1lrYf7IfBqEwQ2_small.jpg" group-title="(Pelis) Estrenos 2018",Black Mirror Bandersnatch 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia sumergida 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/qKrpynyBiP9NKLywKLltchoIpT5_small.jpg" group-title="(Pelis) Estrenos 2018",Familia sumergida 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malacopa 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/Av2wwd4vZu3rrtr12F3CFUOYFSF_small.jpg" group-title="(Pelis) Estrenos 2018",Malacopa 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Rising Secret Warriors -n" tvg-logo="http://gangatvbox.com:25461/images/rXmc4jvDBU04Wp8r5JMWy3HbhB3_small.jpg" group-title="(Pelis) Estrenos 2018",Marvel Rising Secret Warriors -n
-http://gangatvbox.com:25461/movie/1/gangatv/17864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ni Tu Ni Yo 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/8NH0cm0HBGUPpzdz8hN2y55U3YO_small.jpg" group-title="(Pelis) Estrenos 2018",Ni Tu Ni Yo 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Searching 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/yRbUz8cfpNoJVWhV32MZHfypQ7d_small.jpg" group-title="(Pelis) Estrenos 2018",Searching 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Seven Deadly Sins the Movie Prisoners of the Sky 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/r6pPUVUKU5eIpYj4oEzidk5ZibB_small.jpg" group-title="(Pelis) Estrenos 2018",The Seven Deadly Sins the Movie Prisoners of the Sky 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wifi Ralph 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/qEH0uqDazPxuclYn0n5GNqE04bY_small.jpg" group-title="(Pelis) Estrenos 2018",Wifi Ralph 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A-X-L 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/9kB56ZdMB6RgY5QtX9Bar45jCeI_small.jpg" group-title="(Pelis) Estrenos 2018",A-X-L 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El amor menos pensado 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/fhlRJkVvaifu6u0OHiBPdnFe5A9_small.jpg" group-title="(Pelis) Estrenos 2018",El amor menos pensado 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Icebox 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/pavdRZ1K73B5GMb1mceblYKzIwz_small.jpg" group-title="(Pelis) Estrenos 2018",Icebox 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Macho calado 2016 -n" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RkNWE5MDItNjhlZS00YWJkLWIyMTAtYzMyYjRlZmM2ZjIyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg" group-title="(Pelis) Nuevas Latino",Macho calado 2016 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Museo 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/bFbhxPfaNB5oXAIag4fDpVyAXyj_small.jpg" group-title="(Pelis) Estrenos 2018",Museo 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sueño en otro idioma 2017 -n" tvg-logo="http://gangatvbox.com:25461/images/1NxBKQrtj6liidMxLYwi2uMUpPW_small.jpg" group-title="(Pelis) Nuevas Latino",Sueño en otro idioma 2017 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Stalker Club 2017 -n" tvg-logo="http://gangatvbox.com:25461/images/3zOMa0iJGEvNZKlnd6UgDtH6pgw_small.jpg" group-title="(Pelis) Nuevas Latino",The Stalker Club 2017 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tuya mía te la apuesto 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/qnUg7sAJKkrRyOtNhW53vWc4ZKu_small.jpg" group-title="(Pelis) Estrenos 2018",Tuya mía te la apuesto 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Una invitada peligrosa -n" tvg-logo="http://gangatvbox.com:25461/images/brVLpyW0GUsW6Ee64pH6VDQjFbJ_small.jpg" group-title="(Pelis) Nuevas Latino",Una invitada peligrosa -n
-http://gangatvbox.com:25461/movie/1/gangatv/17851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A ciegas -n" tvg-logo="http://gangatvbox.com:25461/images/rGfGfgL2pEPCfhIvqHXieXFn7gp_small.jpg" group-title="(Pelis) Estrenos 2018",A ciegas -n
-http://gangatvbox.com:25461/movie/1/gangatv/17843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Animales fantásticos: Los crímenes de Grindelwald -n" tvg-logo="http://gangatvbox.com:25461/images/zs6LFuE4aB1I8crKjAhlPVTHAOS_small.jpg" group-title="(Pelis) Estrenos 2018",Animales fantásticos: Los crímenes de Grindelwald -n
-http://gangatvbox.com:25461/movie/1/gangatv/17842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin Un reencuentro inolvidable 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/yFTnOaszS1xnnnx2jOTPwIsQIqk_small.jpg" group-title="(Pelis) Estrenos 2018",Christopher Robin Un reencuentro inolvidable 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El Grinch 2000" tvg-logo="http://gangatvbox.com:25461/images/1jZl4Kuv3Y7BR265zD6edvOMPAx_small.jpg" group-title="(Pelis) Comedia",El Grinch 2000
-http://gangatvbox.com:25461/movie/1/gangatv/17850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="First Man El primer hombre en la Luna 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/6LKINapQLIOtRuvAGO30FUuUJqN_small.jpg" group-title="(Pelis) Estrenos 2018",First Man El primer hombre en la Luna 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Johnny English 3.0 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/qrAteRWzRMVYQpMZsnHEm5QBEiB_small.jpg" group-title="(Pelis) Estrenos 2018",Johnny English 3.0 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Los Paracaidistas 2015 -n" tvg-logo="http://gangatvbox.com:25461/images/3ssSzivkySKPvL04Hzw70dornhv_small.jpg" group-title="(Pelis) Estrenos 2018",Los Paracaidistas 2015 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mistrust 2018 -n" tvg-logo="http://gangatvbox.com:25461/images/aK6GQWZZ9xRVmVC153zQ2C2ashi_small.jpg" group-title="(Pelis) Estrenos 2018",Mistrust 2018 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Y a Dios que me perdone 2017 -n" tvg-logo="http://gangatvbox.com:25461/images/brWS38q8L65YE1wgAOuEC4i7mZa_small.jpg" group-title="(Pelis) Nuevas Latino",Y a Dios que me perdone 2017 -n
-http://gangatvbox.com:25461/movie/1/gangatv/17849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Acusada 2018-" tvg-logo="http://gangatvbox.com:25461/images/bWWAlKUaIrBI7NtvjKGcui5y1DN_small.jpg" group-title="(Pelis) Estrenos 2018",Acusada 2018-
-http://gangatvbox.com:25461/movie/1/gangatv/17830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark Crimes 2016-" tvg-logo="http://gangatvbox.com:25461/images/bEwK1r4pmJ9huEjqrZf73NXJvFy_small.jpg" group-title="(Pelis) Nuevas Latino",Dark Crimes 2016-
-http://gangatvbox.com:25461/movie/1/gangatv/17832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mowgli Relatos del Libro de la Selva 2018-" tvg-logo="http://gangatvbox.com:25461/images/yJ12iCaZqbr7683NYI3Nyav6C7g_small.jpg" group-title="(Pelis) Estrenos 2018",Mowgli Relatos del Libro de la Selva 2018-
-http://gangatvbox.com:25461/movie/1/gangatv/17833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pyojeok El objetivo 2014-" tvg-logo="http://gangatvbox.com:25461/images/o5l85BMQoAM3us6e51IKJimDBiW_small.jpg" group-title="(Pelis) Nuevas Latino",Pyojeok El objetivo 2014-
-http://gangatvbox.com:25461/movie/1/gangatv/17834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pyromanen 2016-" tvg-logo="http://gangatvbox.com:25461/images/wgyHrXLzuomnsaM4oqdJUQGYI1w_small.jpg" group-title="(Pelis) Nuevas Latino",Pyromanen 2016-
-http://gangatvbox.com:25461/movie/1/gangatv/17835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Supermonstruos La estrella de los deseos 2018-" tvg-logo="http://gangatvbox.com:25461/images/yXGlF7BKrbwgaGXyed2wJgRK9c_small.jpg" group-title="(Pelis) Estrenos 2018",Supermonstruos La estrella de los deseos 2018-
-http://gangatvbox.com:25461/movie/1/gangatv/17836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Little Stranger 2018-" tvg-logo="http://gangatvbox.com:25461/images/mfLl93043kOHPJfenkawjookil8_small.jpg" group-title="(Pelis) Estrenos 2018",The Little Stranger 2018-
-http://gangatvbox.com:25461/movie/1/gangatv/17837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un pequeño favor-" tvg-logo="http://gangatvbox.com:25461/images/dqJojgu98ZOIeOM7mekkHgrAMII_small.jpg" group-title="(Pelis) Estrenos 2018",Un pequeño favor-
-http://gangatvbox.com:25461/movie/1/gangatv/17829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Berlin Falling 2017" tvg-logo="http://gangatvbox.com:25461/images/6PdFhIRfZ5B38szparYdOC2wAh2_small.jpg" group-title="(Pelis) Nuevas Latino",Berlin Falling 2017
-http://gangatvbox.com:25461/movie/1/gangatv/17811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El azote 2017" tvg-logo="http://gangatvbox.com:25461/images/fmwWIs2pWNcLyQzQywv0KCi3kl6_small.jpg" group-title="(Pelis) Nuevas Latino",El azote 2017
-http://gangatvbox.com:25461/movie/1/gangatv/17812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Junto con los dioses, los dos mundos" tvg-logo="http://gangatvbox.com:25461/images/5j2YVF7VouLG0Ze96SEsj4DnVQM_small.jpg" group-title="(Pelis) Nuevas Latino",Junto con los dioses, los dos mundos
-http://gangatvbox.com:25461/movie/1/gangatv/17813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Las grietas de Jara 2017" tvg-logo="http://gangatvbox.com:25461/images/q2eCSXDYFFiUtZEja4ToRPukJxO_small.jpg" group-title="(Pelis) Nuevas Latino",Las grietas de Jara 2017
-http://gangatvbox.com:25461/movie/1/gangatv/17814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Las herederas 2018" tvg-logo="http://gangatvbox.com:25461/images/iVB7C49THxrQMMTfzdTauWfJuDj_small.jpg" group-title="(Pelis) Estrenos 2018",Las herederas 2018
-http://gangatvbox.com:25461/movie/1/gangatv/17815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Medea" tvg-logo="http://gangatvbox.com:25461/images/yRbQcbQqHcSWhYy3MAzYoWCcHk6_small.jpg" group-title="(Pelis) Nuevas Latino",Medea
-http://gangatvbox.com:25461/movie/1/gangatv/17824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Little Pony Best Gift Ever 2018" tvg-logo="http://gangatvbox.com:25461/images/doSV3IXkhJvvRgdS156oDJS8rEp_small.jpg" group-title="(Pelis) Nuevas Latino",My Little Pony Best Gift Ever 2018
-http://gangatvbox.com:25461/movie/1/gangatv/17825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Plan V 2018" tvg-logo="http://gangatvbox.com:25461/images/o7kbjvvOesIC0eEbV3ctH690Mho_small.jpg" group-title="(Pelis) Nuevas Latino",Plan V 2018
-http://gangatvbox.com:25461/movie/1/gangatv/17826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Santa and Cie 2017" tvg-logo="http://gangatvbox.com:25461/images/mrz2fC1F9H8kbdKu2vOwyeMAzvg_small.jpg" group-title="(Pelis) Nuevas Latino",Santa and Cie 2017
-http://gangatvbox.com:25461/movie/1/gangatv/17827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Stolen Princess" tvg-logo="http://gangatvbox.com:25461/images/8R5Gx3sszkBYFz1CsnkFYq5RBE9_small.jpg" group-title="(Pelis) Nuevas Latino",The Stolen Princess
-http://gangatvbox.com:25461/movie/1/gangatv/17828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toublanc 2017" tvg-logo="http://gangatvbox.com:25461/images/qDZujHdVmhuObSLOhGDi1pPwH74_small.jpg" group-title="(Pelis) Nuevas Latino",Toublanc 2017
-http://gangatvbox.com:25461/movie/1/gangatv/17816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A ti te queria encontrar" tvg-logo="http://gangatvbox.com:25461/images/giDS3m2yu9rNaqZolQqBAu7V48j_small.jpg" group-title="(Pelis) Nuevas Latino",A ti te queria encontrar
-http://gangatvbox.com:25461/movie/1/gangatv/17810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Enemigo Inmortal" tvg-logo="http://gangatvbox.com:25461/images/1zIxlwFKrdUNOfgYzmKy4P2RNfA_small.jpg" group-title="(Pelis) Nuevas Latino",Enemigo Inmortal
-http://gangatvbox.com:25461/movie/1/gangatv/17808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La librería" tvg-logo="http://gangatvbox.com:25461/images/sU2BADuUNv39zUmd4O9GB83u0Ck_small.jpg" group-title="(Pelis) Nuevas Latino",La librería
-http://gangatvbox.com:25461/movie/1/gangatv/17806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Vendedora de Fósforos" tvg-logo="http://gangatvbox.com:25461/images/msMiDhDaZ1xEtyWWcTZseW7elRq_small.jpg" group-title="(Pelis) Nuevas Latino",La Vendedora de Fósforos
-http://gangatvbox.com:25461/movie/1/gangatv/17807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Loving Pablo" tvg-logo="http://gangatvbox.com:25461/images/cjgO5nJTC0E3TxicrHk5XCd27tB_small.jpg" group-title="(Pelis) Nuevas Latino",Loving Pablo
-http://gangatvbox.com:25461/movie/1/gangatv/17805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mary Shelley" tvg-logo="http://gangatvbox.com:25461/images/2KMDHpksGpudkyQKx76wEuz2sTf_small.jpg" group-title="(Pelis) Nuevas Latino",Mary Shelley
-http://gangatvbox.com:25461/movie/1/gangatv/17803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tiempo compartido" tvg-logo="http://gangatvbox.com:25461/images/acK3o7NmhGL4ZAI1rmBhK1BSPeH_small.jpg" group-title="(Pelis) Nuevas Latino",Tiempo compartido
-http://gangatvbox.com:25461/movie/1/gangatv/17804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yo soy así, Tita de Buenos Aires" tvg-logo="http://gangatvbox.com:25461/images/_small.jpg" group-title="(Pelis) Nuevas Latino",Yo soy así, Tita de Buenos Aires
-http://gangatvbox.com:25461/movie/1/gangatv/17809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bad Moms Christmas" tvg-logo="http://gangatvbox.com:25461/images/qB6485leKyQ7tnbTbRWOHEsTe1U_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Bad Moms Christmas
-http://gangatvbox.com:25461/movie/1/gangatv/16080.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Bronx Tale" tvg-logo="http://gangatvbox.com:25461/images/jr3JlhUGHO1H7yRRZn7JhJBW4FP_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Bronx Tale
-http://gangatvbox.com:25461/movie/1/gangatv/16079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Bug's Life" tvg-logo="http://gangatvbox.com:25461/images/sCDOjkuPowFvTiUfi3vKwXdFqc6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Bug's Life
-http://gangatvbox.com:25461/movie/1/gangatv/16078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Charlie Brown Christmas" tvg-logo="http://gangatvbox.com:25461/images/3Bn0tc1BsheZwUQtvl10wTgQ16J_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Charlie Brown Christmas
-http://gangatvbox.com:25461/movie/1/gangatv/16077.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Christmas Carol" tvg-logo="http://gangatvbox.com:25461/images/f0BNSWfzRmhaCsmarydrWSy2zlI_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Christmas Carol
-http://gangatvbox.com:25461/movie/1/gangatv/16076.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Clockwork Orange" tvg-logo="http://gangatvbox.com:25461/images/2jA1D4NAKzBwGjd5NumFrB67cG3_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Clockwork Orange
-http://gangatvbox.com:25461/movie/1/gangatv/16075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Cure For Wellness" tvg-logo="http://gangatvbox.com:25461/images/gwUtIXKyXgkWBzqwyW3uypt31te_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Cure For Wellness
-http://gangatvbox.com:25461/movie/1/gangatv/16074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Dangerous Man" tvg-logo="http://gangatvbox.com:25461/images/ggrvh1rfmAyArhRfzp0iDDkwqhi_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Dangerous Man
-http://gangatvbox.com:25461/movie/1/gangatv/16073.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Dark Song" tvg-logo="http://gangatvbox.com:25461/images/fguce8M1bZnWjVkRWCFh9P3kt6A_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Dark Song
-http://gangatvbox.com:25461/movie/1/gangatv/16072.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Demon Within" tvg-logo="http://gangatvbox.com:25461/images/1PdRPaUWyTu7Gn5UdhwxxSNLMH4_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Demon Within
-http://gangatvbox.com:25461/movie/1/gangatv/16071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Dog's Purpose" tvg-logo="http://gangatvbox.com:25461/images/1vz34upg09Hh9p4aV2Uau19g2bv_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Dog's Purpose
-http://gangatvbox.com:25461/movie/1/gangatv/16070.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Family Man" tvg-logo="http://gangatvbox.com:25461/images/iC6pipI9J5SZvIN0WvjWaRSVz79_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Family Man
-http://gangatvbox.com:25461/movie/1/gangatv/16069.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Flintstones Christmas Carol" tvg-logo="http://gangatvbox.com:25461/images/e0KbZdRvxuki9nrXqRtpkgcj3Vt_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Flintstones Christmas Carol
-http://gangatvbox.com:25461/movie/1/gangatv/16068.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Futile And Stupid Gesture" tvg-logo="http://gangatvbox.com:25461/images/6oGLSTyYWbMws5ITAGzbNz3Mo3R_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Futile And Stupid Gesture
-http://gangatvbox.com:25461/movie/1/gangatv/16067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Garfield Christmas Special" tvg-logo="http://gangatvbox.com:25461/images/93lz2WnLPK4dDHN6knvnaVkzeHD_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Garfield Christmas Special
-http://gangatvbox.com:25461/movie/1/gangatv/16066.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Good Day To Die Hard" tvg-logo="http://gangatvbox.com:25461/images/f59Z89cwPgwmz90WpfFHOEsvgwV_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Good Day To Die Hard
-http://gangatvbox.com:25461/movie/1/gangatv/16065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Haunted House" tvg-logo="http://gangatvbox.com:25461/images/1XyT5LTafzn13WHQkTHRJihQxAG_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Haunted House
-http://gangatvbox.com:25461/movie/1/gangatv/16063.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Haunted House 2" tvg-logo="http://gangatvbox.com:25461/images/6UXwvEANxgHk8m9DYF2Y9AJtIJM_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Haunted House 2
-http://gangatvbox.com:25461/movie/1/gangatv/16064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A History Of Violence" tvg-logo="http://gangatvbox.com:25461/images/iUy0OY5OIXCMRwZqiDevhtmn6l7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A History Of Violence
-http://gangatvbox.com:25461/movie/1/gangatv/16062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A League Of Their Own" tvg-logo="http://gangatvbox.com:25461/images/ixpAlrZE09SGYSIwrtZBakXVIWL_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A League Of Their Own
-http://gangatvbox.com:25461/movie/1/gangatv/16061.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Midsummer Night's Dream" tvg-logo="http://gangatvbox.com:25461/images/dcczK6MSCn0Q88RvXSVG0BJY5ve_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Midsummer Night's Dream
-http://gangatvbox.com:25461/movie/1/gangatv/16060.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Million Ways To Die In The West" tvg-logo="http://gangatvbox.com:25461/images/AqJVwwMfROoQNZHxdGDVnp3WaCp_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Million Ways To Die In The West
-http://gangatvbox.com:25461/movie/1/gangatv/16059.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Monster Calls" tvg-logo="http://gangatvbox.com:25461/images/mMlZ9Sgznja3vCaOOu2yfXlvCZH_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Monster Calls
-http://gangatvbox.com:25461/movie/1/gangatv/16058.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Monster In Paris" tvg-logo="http://gangatvbox.com:25461/images/eVEJypxPzc1Tox9BGVhgmrCaCbh_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Monster In Paris
-http://gangatvbox.com:25461/movie/1/gangatv/16057.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street" tvg-logo="http://gangatvbox.com:25461/images/cu24UfV4aGSY5vfqtIDsnIbXsG7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Nightmare On Elm Street
-http://gangatvbox.com:25461/movie/1/gangatv/16052.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 2 Freddy's Revenge" tvg-logo="http://gangatvbox.com:25461/images/rDMKoE1pN17MkOFllOW1RJwdrjS_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Nightmare On Elm Street 2 Freddy's Revenge
-http://gangatvbox.com:25461/movie/1/gangatv/16056.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 3 Dream Warriors" tvg-logo="http://gangatvbox.com:25461/images/wfrDsvM3OlDBsadDwnrzKyODh11_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Nightmare On Elm Street 3 Dream Warriors
-http://gangatvbox.com:25461/movie/1/gangatv/16055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 4 The Dream Master" tvg-logo="http://gangatvbox.com:25461/images/2mcRrvrA7aX70pgoffZPScQyPH3_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Nightmare On Elm Street 4 The Dream Master
-http://gangatvbox.com:25461/movie/1/gangatv/16054.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Nightmare On Elm Street 5 The Dream Child" tvg-logo="http://gangatvbox.com:25461/images/qqmInSZCRp8zILDOZA2oAkeM44y_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Nightmare On Elm Street 5 The Dream Child
-http://gangatvbox.com:25461/movie/1/gangatv/16053.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Question Of Faith" tvg-logo="http://gangatvbox.com:25461/images/mwVkW7sHqhPGdsZa5nb4X3J36vC_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Question Of Faith
-http://gangatvbox.com:25461/movie/1/gangatv/16051.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Return To Salem's Lot" tvg-logo="http://gangatvbox.com:25461/images/sc3jWWodUIaofc176PlYUQzUslj_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Return To Salem's Lot
-http://gangatvbox.com:25461/movie/1/gangatv/16050.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Royal Night Out" tvg-logo="http://gangatvbox.com:25461/images/mcBb9Q9QOHIuHVEpbwaGDQl6zWW_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Royal Night Out
-http://gangatvbox.com:25461/movie/1/gangatv/16049.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Single Shot" tvg-logo="http://gangatvbox.com:25461/images/vWs0TMbZAtxVs0Wi07DlTeYnjRh_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Single Shot
-http://gangatvbox.com:25461/movie/1/gangatv/16048.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Storks Journey" tvg-logo="http://gangatvbox.com:25461/images/IaXwzJU42eYni9rU5bJFodaOE6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Storks Journey
-http://gangatvbox.com:25461/movie/1/gangatv/16047.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A United Kingdom" tvg-logo="http://gangatvbox.com:25461/images/9CTd4NytV4gLXhIkba8kKUZovOn_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A United Kingdom
-http://gangatvbox.com:25461/movie/1/gangatv/16046.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A View To A Kill" tvg-logo="http://gangatvbox.com:25461/images/uDWRqTtT0kEVb0OR3kU087FZmuN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A View To A Kill
-http://gangatvbox.com:25461/movie/1/gangatv/16045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Walk In The Woods" tvg-logo="http://gangatvbox.com:25461/images/9ZoPipTojb4nMJiYDrQUdCHMkLF_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Walk In The Woods
-http://gangatvbox.com:25461/movie/1/gangatv/16044.avi
-#EXTINF:-1 tvg-id="" tvg-name="A Walk To Remember" tvg-logo="http://gangatvbox.com:25461/images/j1ect1SnPj0HZ2KzlM0kNRvGu2W_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Walk To Remember
-http://gangatvbox.com:25461/movie/1/gangatv/16043.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Week In Watts" tvg-logo="http://gangatvbox.com:25461/images/hSiUFVnWW3mY4wYcjtxr3vlTERC_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Week In Watts
-http://gangatvbox.com:25461/movie/1/gangatv/16042.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Wrinkle In Time" tvg-logo="http://gangatvbox.com:25461/images/yMbGWRuxNs114OzpeJCeGvKDmZu_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",A Wrinkle In Time
-http://gangatvbox.com:25461/movie/1/gangatv/16041.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Accepted" tvg-logo="http://gangatvbox.com:25461/images/ed5W7iDp8BINUPw0bXPStxGxJOh_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Accepted
-http://gangatvbox.com:25461/movie/1/gangatv/16040.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Accident Man" tvg-logo="http://gangatvbox.com:25461/images/bHFKej3Dbr8kGRSRHpkoFHq9TJQ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Accident Man
-http://gangatvbox.com:25461/movie/1/gangatv/16039.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura When Nature Calls" tvg-logo="http://gangatvbox.com:25461/images/yEScgAG7X7Rzgf3zA6d8Dstj0R7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Ace Ventura When Nature Calls
-http://gangatvbox.com:25461/movie/1/gangatv/16038.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Across The Universe" tvg-logo="http://gangatvbox.com:25461/images/447c8Te3DXC46rQvDEixKGO4dS6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Across The Universe
-http://gangatvbox.com:25461/movie/1/gangatv/16037.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acts Of Vengeance " tvg-logo="http://gangatvbox.com:25461/images/llp6oHKjNd0VwthPgSkh8lA7Iub_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Acts Of Vengeance 
-http://gangatvbox.com:25461/movie/1/gangatv/16036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Acts Of Violence" tvg-logo="http://gangatvbox.com:25461/images/uLYXIn20ctus35U2ADnvnTZZCCT_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Acts Of Violence
-http://gangatvbox.com:25461/movie/1/gangatv/16035.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After Life" tvg-logo="http://gangatvbox.com:25461/images/jiP13G3cr9G7SOav5A1d3bXki14_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",After Life
-http://gangatvbox.com:25461/movie/1/gangatv/16034.mkv
-#EXTINF:-1 tvg-id="" tvg-name="After The Wedding" tvg-logo="http://gangatvbox.com:25461/images/gKPJiZZx4D0SAlK0kuPMQkJH9Cw_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",After The Wedding
-http://gangatvbox.com:25461/movie/1/gangatv/16033.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Agenda Payback" tvg-logo="http://gangatvbox.com:25461/images/kwBOHhJKZDgobOoNy9WLwV1bSG4_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Agenda Payback
-http://gangatvbox.com:25461/movie/1/gangatv/16032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Cody Banks" tvg-logo="http://gangatvbox.com:25461/images/tpUMy07IvYSxmjQs2W6rrr6Dg2C_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Agent Cody Banks
-http://gangatvbox.com:25461/movie/1/gangatv/16031.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Airplane!" tvg-logo="http://gangatvbox.com:25461/images/q8uqtAKWJ7HnWhSfobzcj4WBAgJ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Airplane!
-http://gangatvbox.com:25461/movie/1/gangatv/16030.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aladdin" tvg-logo="http://gangatvbox.com:25461/images/xWa72sP1Lq2ISHHD8Tc9YnKdyvv_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Aladdin
-http://gangatvbox.com:25461/movie/1/gangatv/16029.avi
-#EXTINF:-1 tvg-id="" tvg-name="Ali Wong Hard Knock Wife" tvg-logo="http://gangatvbox.com:25461/images/iJbWS0fvvdFcqndb9L2wVk3qVIv_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Ali Wong Hard Knock Wife
-http://gangatvbox.com:25461/movie/1/gangatv/16134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alice In  Wonderland" tvg-logo="http://gangatvbox.com:25461/images/vqwzy2hjB9POw413sW5CwrcW0m9_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alice In  Wonderland
-http://gangatvbox.com:25461/movie/1/gangatv/16133.avi
-#EXTINF:-1 tvg-id="" tvg-name="Alice Through The Looking Glass" tvg-logo="http://gangatvbox.com:25461/images/w9n9aUDhf2CpTYsOdTVD9sarN0y_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alice Through The Looking Glass
-http://gangatvbox.com:25461/movie/1/gangatv/16132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alien" tvg-logo="http://gangatvbox.com:25461/images/pZ9cAe5FxexJjpCaeiETbXzz3Fs_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alien
-http://gangatvbox.com:25461/movie/1/gangatv/16130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien 3" tvg-logo="http://gangatvbox.com:25461/images/5swtYUOC7T2njSX9kfQxSfus5HZ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alien 3
-http://gangatvbox.com:25461/movie/1/gangatv/16131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien Covenant" tvg-logo="http://gangatvbox.com:25461/images/245tgZ3mTHWs0NRiPSwPjKobKHf_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alien Covenant
-http://gangatvbox.com:25461/movie/1/gangatv/16129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alien Resurrection" tvg-logo="http://gangatvbox.com:25461/images/8TydIuhzm6cDxuHuQNFNy7bajFh_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alien Resurrection
-http://gangatvbox.com:25461/movie/1/gangatv/16128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aliens" tvg-logo="http://gangatvbox.com:25461/images/3QU9EP8BFLnTh6w9ycDSCvhqbRU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Aliens
-http://gangatvbox.com:25461/movie/1/gangatv/16127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All About The Money" tvg-logo="http://gangatvbox.com:25461/images/AoR9XuGB0NROiv7YgtJoBAfm40C_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All About The Money
-http://gangatvbox.com:25461/movie/1/gangatv/16126.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All Eyez On Me" tvg-logo="http://gangatvbox.com:25461/images/zmgsaKFWbmZ1Grz4SO0PLNxilv3_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All Eyez On Me
-http://gangatvbox.com:25461/movie/1/gangatv/16125.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All I Want For Christmas Is You" tvg-logo="http://gangatvbox.com:25461/images/mz4GbSfoPXJ4uwrMeEOoHVY42hj_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All I Want For Christmas Is You
-http://gangatvbox.com:25461/movie/1/gangatv/16124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Nighter" tvg-logo="http://gangatvbox.com:25461/images/yIy6gyRGVMIhvF98G9AIFRUk1ZZ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All Nighter
-http://gangatvbox.com:25461/movie/1/gangatv/16123.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All Saints" tvg-logo="http://gangatvbox.com:25461/images/sIE5BafMU0gPYOqBSiYzTxmHqGM_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All Saints
-http://gangatvbox.com:25461/movie/1/gangatv/16122.mkv
-#EXTINF:-1 tvg-id="" tvg-name="All The Money In The World" tvg-logo="http://gangatvbox.com:25461/images/egWOh1jpp2QC6kknO98guzC4ZBe_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",All The Money In The World
-http://gangatvbox.com:25461/movie/1/gangatv/16121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Allegiant" tvg-logo="http://gangatvbox.com:25461/images/1gLQlCpC9NqZfZWodsnx2wtCafu_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Allegiant
-http://gangatvbox.com:25461/movie/1/gangatv/16120.avi
-#EXTINF:-1 tvg-id="" tvg-name="Alléluia" tvg-logo="http://gangatvbox.com:25461/images/7tvEVdHFbeK3JAEsoGiD4MDEKnU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alléluia
-http://gangatvbox.com:25461/movie/1/gangatv/16119.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Aloft" tvg-logo="http://gangatvbox.com:25461/images/48lu9vARZIDHBpk5SnLCZVAovJQ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Aloft
-http://gangatvbox.com:25461/movie/1/gangatv/16118.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alpha Latino" tvg-logo="http://gangatvbox.com:25461/images/ujWmzBgVZLyTiEbFPgA50qSJVGl_small.jpg" group-title="(Pelis) Estrenos 2018",Alpha Latino
-http://gangatvbox.com:25461/movie/1/gangatv/16666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Altar" tvg-logo="http://gangatvbox.com:25461/images/y6aB7jQpz5KPEB5gFqabyPlwhgU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Altar
-http://gangatvbox.com:25461/movie/1/gangatv/16117.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Altered States" tvg-logo="http://gangatvbox.com:25461/images/A4KgmcqWUQvqpmp01W59B3fyL8F_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Altered States
-http://gangatvbox.com:25461/movie/1/gangatv/16116.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin And The Chipmunks Chipwrecked" tvg-logo="http://gangatvbox.com:25461/images/4yMbJ5lRpwN6Snor4aIpk4fEquM_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alvin And The Chipmunks Chipwrecked
-http://gangatvbox.com:25461/movie/1/gangatv/16115.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin And The Chipmunks The Road Chip" tvg-logo="http://gangatvbox.com:25461/images/fwUttAsdIr5E6sj52ZZ63MHiGJM_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alvin And The Chipmunks The Road Chip
-http://gangatvbox.com:25461/movie/1/gangatv/16114.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Alvin And The Chipmunks The Squeakquel" tvg-logo="http://gangatvbox.com:25461/images/8vpDwZ8WMYjeOnt5jQOdudwhpwN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Alvin And The Chipmunks The Squeakquel
-http://gangatvbox.com:25461/movie/1/gangatv/16113.avi
-#EXTINF:-1 tvg-id="" tvg-name="American Beauty" tvg-logo="http://gangatvbox.com:25461/images/xMWEi7m30ZaLPZpfQmcwkIOCMOO_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Beauty
-http://gangatvbox.com:25461/movie/1/gangatv/16112.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Gangster" tvg-logo="http://gangatvbox.com:25461/images/98QzlvtJ34sHqTGyb6aBi1zT0pU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Gangster
-http://gangatvbox.com:25461/movie/1/gangatv/16111.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Heist" tvg-logo="http://gangatvbox.com:25461/images/6O7z059GChYmsqwvv5EKOsgPhBv_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Heist
-http://gangatvbox.com:25461/movie/1/gangatv/16110.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American History X" tvg-logo="http://gangatvbox.com:25461/images/1L9Je8vZPIEoCYJCCNfwNsJ0xgn_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American History X
-http://gangatvbox.com:25461/movie/1/gangatv/16109.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Made" tvg-logo="http://gangatvbox.com:25461/images/y9FjaR9tu9vZcRAbL7xPOhruQ9p_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Made
-http://gangatvbox.com:25461/movie/1/gangatv/16108.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Me" tvg-logo="http://gangatvbox.com:25461/images/1ZQQi5AQCo4ThYxHPy6bKIMOrLm_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Me
-http://gangatvbox.com:25461/movie/1/gangatv/16107.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja" tvg-logo="http://gangatvbox.com:25461/images/cu3ZMJRkxMzQoChXnyAovVWKzQY_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Ninja
-http://gangatvbox.com:25461/movie/1/gangatv/16104.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja 2 The Confrontation" tvg-logo="http://gangatvbox.com:25461/images/5egzeVZqbrFEjeaWx7mhbDYwTCu_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Ninja 2 The Confrontation
-http://gangatvbox.com:25461/movie/1/gangatv/16106.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Ninja 3 Blood Hunt" tvg-logo="http://gangatvbox.com:25461/images/fTVH50emmqmSFrRvGdvQp2yE2P1_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Ninja 3 Blood Hunt
-http://gangatvbox.com:25461/movie/1/gangatv/16105.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie" tvg-logo="http://gangatvbox.com:25461/images/gHc1TsdfsEV0J0pYCmtmtViF3iX_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Pie
-http://gangatvbox.com:25461/movie/1/gangatv/16102.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Pie 2" tvg-logo="http://gangatvbox.com:25461/images/3vCYQf5zQUFnG2dZptuvZlO0alE_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Pie 2
-http://gangatvbox.com:25461/movie/1/gangatv/16103.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Psycho" tvg-logo="http://gangatvbox.com:25461/images/5LcnACpiTKd8KuVHOcCD1xUfFkx_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Psycho
-http://gangatvbox.com:25461/movie/1/gangatv/16101.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Reunion" tvg-logo="http://gangatvbox.com:25461/images/5UU5galgpHY0POe3nNQtN9nS0pi_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Reunion
-http://gangatvbox.com:25461/movie/1/gangatv/16100.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Sniper" tvg-logo="http://gangatvbox.com:25461/images/4WxmCmJbKxLDHWSaLHNttBqOGnE_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Sniper
-http://gangatvbox.com:25461/movie/1/gangatv/16098.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Sniper 2" tvg-logo="http://gangatvbox.com:25461/images/4WxmCmJbKxLDHWSaLHNttBqOGnE_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Sniper 2
-http://gangatvbox.com:25461/movie/1/gangatv/16099.mkv
-#EXTINF:-1 tvg-id="" tvg-name="American Wedding" tvg-logo="http://gangatvbox.com:25461/images/R0FID9Zj72bTU8egRe9jrORqH2_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",American Wedding
-http://gangatvbox.com:25461/movie/1/gangatv/16097.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amira & Sam" tvg-logo="http://gangatvbox.com:25461/images/dBakExG3AiFdqQ8KAJn0l2O87vd_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Amira & Sam
-http://gangatvbox.com:25461/movie/1/gangatv/16096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amityville II The Possession" tvg-logo="http://gangatvbox.com:25461/images/73uDJsGG1opVrBnmAejW4zShEjr_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Amityville II The Possession
-http://gangatvbox.com:25461/movie/1/gangatv/16095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Amityville The Awakening" tvg-logo="http://gangatvbox.com:25461/images/yPDde99dGGaTmSfZCSpTNSoSQQT_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Amityville The Awakening
-http://gangatvbox.com:25461/movie/1/gangatv/16094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amnesiac" tvg-logo="http://gangatvbox.com:25461/images/dlUD2hY6Ss7eUqjV1X08E18EZ1h_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Amnesiac
-http://gangatvbox.com:25461/movie/1/gangatv/16093.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Among Friends" tvg-logo="http://gangatvbox.com:25461/images/f662BmU8oqf8d8s3glT2FlGuFvt_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Among Friends
-http://gangatvbox.com:25461/movie/1/gangatv/16092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amores Perros" tvg-logo="http://gangatvbox.com:25461/images/uoObXx53SjSLLtAavMSIe02zizs_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Amores Perros
-http://gangatvbox.com:25461/movie/1/gangatv/16091.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An American Tail" tvg-logo="http://gangatvbox.com:25461/images/jKADo2prqnosOMeh9ZEjRm8eUGI_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",An American Tail
-http://gangatvbox.com:25461/movie/1/gangatv/16090.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An American Tail Fievel Goes West" tvg-logo="http://gangatvbox.com:25461/images/9Alj25OZmSgLyG8OiIdMR01wLDc_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",An American Tail Fievel Goes West
-http://gangatvbox.com:25461/movie/1/gangatv/16089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An American Tail The Treasure Of Manhattan Island" tvg-logo="http://gangatvbox.com:25461/images/uhSVB4ehnu123kFaprXnPB6Is0x_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",An American Tail The Treasure Of Manhattan Island
-http://gangatvbox.com:25461/movie/1/gangatv/16088.mkv
-#EXTINF:-1 tvg-id="" tvg-name="An Honest Liar" tvg-logo="http://gangatvbox.com:25461/images/bCI87CaISVG0n9qmlMvzLDzsuF6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",An Honest Liar
-http://gangatvbox.com:25461/movie/1/gangatv/16087.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anastasia" tvg-logo="http://gangatvbox.com:25461/images/dKJ6OOYlHGPARKidvP1kYJjXW29_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Anastasia
-http://gangatvbox.com:25461/movie/1/gangatv/16086.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anatomy Of A Murder" tvg-logo="http://gangatvbox.com:25461/images/b1rSQmsMShD2Y30oXnrIdTwlyxP_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Anatomy Of A Murder
-http://gangatvbox.com:25461/movie/1/gangatv/16085.mkv
-#EXTINF:-1 tvg-id="" tvg-name="And So It Goes" tvg-logo="http://gangatvbox.com:25461/images/4luDZA1tIubKThUybj70e8ww19B_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",And So It Goes
-http://gangatvbox.com:25461/movie/1/gangatv/16084.avi
-#EXTINF:-1 tvg-id="" tvg-name="Angry Birds" tvg-logo="http://gangatvbox.com:25461/images/uiOK4gnD6SV4dM1JiE56KFjHE6r_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Angry Birds
-http://gangatvbox.com:25461/movie/1/gangatv/16083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Annabelle 2 Creation" tvg-logo="http://gangatvbox.com:25461/images/8CrGaT0MdqZu7ql9JaQ63ZsKpd5_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Annabelle 2 Creation
-http://gangatvbox.com:25461/movie/1/gangatv/16082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anne Of Green Gables Part1" tvg-logo="http://gangatvbox.com:25461/images/8CrGaT0MdqZu7ql9JaQ63ZsKpd5_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Anne Of Green Gables Part1
-http://gangatvbox.com:25461/movie/1/gangatv/16081.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anne Of Green Gables Part2" tvg-logo="http://gangatvbox.com:25461/images/8CrGaT0MdqZu7ql9JaQ63ZsKpd5_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Anne Of Green Gables Part2
-http://gangatvbox.com:25461/movie/1/gangatv/16191.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annie Hall" tvg-logo="http://gangatvbox.com:25461/images/3WuGzieSi1byhthjlvSXnl1Uoxg_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Annie Hall
-http://gangatvbox.com:25461/movie/1/gangatv/16190.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Annihilation" tvg-logo="http://gangatvbox.com:25461/images/zTiKrS1e38XKwiisZpyjNJb7CnI_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Annihilation
-http://gangatvbox.com:25461/movie/1/gangatv/16189.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man And The Wasp" tvg-logo="http://gangatvbox.com:25461/images/bvYI6i9lQ3bsup9PgnMF3YYr8ZR_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Ant-Man And The Wasp
-http://gangatvbox.com:25461/movie/1/gangatv/16186.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Anti Matter" tvg-logo="http://gangatvbox.com:25461/images/62oRA7ghxL9HGFHe5Dd9IVljyKi_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Anti Matter
-http://gangatvbox.com:25461/movie/1/gangatv/16188.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antigang" tvg-logo="http://gangatvbox.com:25461/images/qIYRBdLcsIOceYZPcNi9NL0qR7F_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Antigang
-http://gangatvbox.com:25461/movie/1/gangatv/16187.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Antz" tvg-logo="http://gangatvbox.com:25461/images/w9QVLMRnetd2DqdBHHleJOqTZHD_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Antz
-http://gangatvbox.com:25461/movie/1/gangatv/16185.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Any Given Sunday" tvg-logo="http://gangatvbox.com:25461/images/zhkO6Ivt6hFfoLFe8czfiwhUocu_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Any Given Sunday
-http://gangatvbox.com:25461/movie/1/gangatv/16184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apocalypto" tvg-logo="http://gangatvbox.com:25461/images/zyqxcPxUHWdM5dmWYWeg5K1yXuI_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Apocalypto
-http://gangatvbox.com:25461/movie/1/gangatv/16183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apolo 13" tvg-logo="http://gangatvbox.com:25461/images/6YNXPvmJ1FtXbz0DYxezhO5Ox08_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Apolo 13
-http://gangatvbox.com:25461/movie/1/gangatv/16182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Appurushîdo" tvg-logo="http://gangatvbox.com:25461/images/42WP9OZP0YF6NytIgd0ZGXFLXHT_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Appurushîdo
-http://gangatvbox.com:25461/movie/1/gangatv/16181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Appurushîdo Alpha" tvg-logo="http://gangatvbox.com:25461/images/42WP9OZP0YF6NytIgd0ZGXFLXHT_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Appurushîdo Alpha
-http://gangatvbox.com:25461/movie/1/gangatv/16180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Appurushîdo Ekusu Makina" tvg-logo="http://gangatvbox.com:25461/images/42WP9OZP0YF6NytIgd0ZGXFLXHT_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Appurushîdo Ekusu Makina
-http://gangatvbox.com:25461/movie/1/gangatv/16179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Apt Pupil" tvg-logo="http://gangatvbox.com:25461/images/jegJfSXd309UgtiGsGXGekjtWgZ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Apt Pupil
-http://gangatvbox.com:25461/movie/1/gangatv/16178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arachnophobia" tvg-logo="http://gangatvbox.com:25461/images/fBOWcXe6dyCJmcD4U1Ztg15cXjR_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Arachnophobia
-http://gangatvbox.com:25461/movie/1/gangatv/16177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Are We Done Yet" tvg-logo="http://gangatvbox.com:25461/images/4jvr0o8pFrOmzAyqJ5hK2ooy84C_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Are We Done Yet
-http://gangatvbox.com:25461/movie/1/gangatv/16176.avi
-#EXTINF:-1 tvg-id="" tvg-name="Argo" tvg-logo="http://gangatvbox.com:25461/images/qOIeXpSpv2Oa3zLLUATI9uYs82J_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Argo
-http://gangatvbox.com:25461/movie/1/gangatv/16175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon" tvg-logo="http://gangatvbox.com:25461/images/yYtlk1E28L1kQG6VcazkHhv29Ur_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Armageddon
-http://gangatvbox.com:25461/movie/1/gangatv/16174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Armour Of God" tvg-logo="http://gangatvbox.com:25461/images/pGvDEbmIKpg6IRQLAgE0zsvIrO2_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Armour Of God
-http://gangatvbox.com:25461/movie/1/gangatv/16172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Armour Of God 2" tvg-logo="http://gangatvbox.com:25461/images/pGvDEbmIKpg6IRQLAgE0zsvIrO2_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Armour Of God 2
-http://gangatvbox.com:25461/movie/1/gangatv/16173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Around The World In 80 Days" tvg-logo="http://gangatvbox.com:25461/images/9FlbKMDMHDThgQvcJB7b1hQiICX_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Around The World In 80 Days
-http://gangatvbox.com:25461/movie/1/gangatv/16171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arrival" tvg-logo="http://gangatvbox.com:25461/images/AcilyyFwtFuZAkSD9oi2CBw4J9Q_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Arrival
-http://gangatvbox.com:25461/movie/1/gangatv/16170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Arsenal" tvg-logo="http://gangatvbox.com:25461/images/z6AtSYQF6rd1AJTu8wrc5UfNyud_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Arsenal
-http://gangatvbox.com:25461/movie/1/gangatv/16169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Assassination Games" tvg-logo="http://gangatvbox.com:25461/images/qfFCSvW8kJceogbjwRkm7UNn8nj_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Assassination Games
-http://gangatvbox.com:25461/movie/1/gangatv/16168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Assassins Run" tvg-logo="http://gangatvbox.com:25461/images/9PivERaRZwxeSm9StmntQw5tw9V_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Assassins Run
-http://gangatvbox.com:25461/movie/1/gangatv/16167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Assassins Tale" tvg-logo="http://gangatvbox.com:25461/images/obXX4WknS0J8QTWfV0Tyex32FGe_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Assassins Tale
-http://gangatvbox.com:25461/movie/1/gangatv/16166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asterix And Obelix Meet Cleopatra" tvg-logo="http://gangatvbox.com:25461/images/obXX4WknS0J8QTWfV0Tyex32FGe_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Asterix And Obelix Meet Cleopatra
-http://gangatvbox.com:25461/movie/1/gangatv/16165.avi
-#EXTINF:-1 tvg-id="" tvg-name="Astérix Chez Les Bretons" tvg-logo="http://gangatvbox.com:25461/images/mTyfFzO9xiZGrTUbMAGaYtzzTt2_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Astérix Chez Les Bretons
-http://gangatvbox.com:25461/movie/1/gangatv/16164.avi
-
+#EXTINF:-1 tvg-id="" tvg-name="Baby's Day Out" tvg-logo="http://gangatvbox.com:25461/images/fgg4QLwdIpcu2n3bLK21GTaQlrE_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Baby's Day Out
+http://gangatvbox.com:25461/movie/1/gangatv/16163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back To School" tvg-logo="http://gangatvbox.com:25461/images/8k0qfMvpHPttsyt8MqZJR8IOaRN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Back To School
+http://gangatvbox.com:25461/movie/1/gangatv/16162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back To The Future" tvg-logo="http://gangatvbox.com:25461/images/xS3k4YTyt5DdaLmbDGxdioi2v3w_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Back To The Future
+http://gangatvbox.com:25461/movie/1/gangatv/16161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back To The Future Part II" tvg-logo="http://gangatvbox.com:25461/images/2mUXZrDfNlgKK0x1H7cynUJv1dm_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Back To The Future Part II
+http://gangatvbox.com:25461/movie/1/gangatv/16160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back To The Future Part III" tvg-logo="http://gangatvbox.com:25461/images/7VfBOAR7glyoqLbABuMcZirdKsa_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Back To The Future Part III
+http://gangatvbox.com:25461/movie/1/gangatv/16159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Backdraft" tvg-logo="http://gangatvbox.com:25461/images/sXidEP5x5RhUlNUlnHNrfFyActO_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Backdraft
+http://gangatvbox.com:25461/movie/1/gangatv/16158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys" tvg-logo="http://gangatvbox.com:25461/images/nHalcWY9Ed5KSl35r9ddU2dnyJA_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Boys
+http://gangatvbox.com:25461/movie/1/gangatv/16157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys II" tvg-logo="http://gangatvbox.com:25461/images/zZfgBNCovjAp2TU1BL3FyPKjKSq_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Boys II
+http://gangatvbox.com:25461/movie/1/gangatv/16156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Match" tvg-logo="http://gangatvbox.com:25461/images/9JuurLi5Iw0I9STanC4UEmVPo7G_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Match
+http://gangatvbox.com:25461/movie/1/gangatv/16155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Milo" tvg-logo="http://gangatvbox.com:25461/images/1dmHunFILNXKzjOkl1A7IIsTI58_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Milo
+http://gangatvbox.com:25461/movie/1/gangatv/16154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Moms" tvg-logo="http://gangatvbox.com:25461/images/maSBYcMxVeeIuHVcEkILuNGxZ4Q_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Moms
+http://gangatvbox.com:25461/movie/1/gangatv/16153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Santa" tvg-logo="http://gangatvbox.com:25461/images/jFb02Qa6M4gaCErsjDuO4hlLKkU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bad Santa
+http://gangatvbox.com:25461/movie/1/gangatv/16152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Badge Of Honor" tvg-logo="http://gangatvbox.com:25461/images/4Rw7qjO07CxDmAnWxcnuCh6Frlg_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Badge Of Honor
+http://gangatvbox.com:25461/movie/1/gangatv/16151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bah Humduck! A Looney Tunes Christmas" tvg-logo="http://gangatvbox.com:25461/images/tjlEbgooaWO2MGfhYvhgzS01YTd_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bah Humduck! A Looney Tunes Christmas
+http://gangatvbox.com:25461/movie/1/gangatv/16150.avi
+#EXTINF:-1 tvg-id="" tvg-name="Bahubali The Beginning" tvg-logo="http://gangatvbox.com:25461/images/iPxdQFekg97Eb4nly7MBL1j9caV_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bahubali The Beginning
+http://gangatvbox.com:25461/movie/1/gangatv/16149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan" tvg-logo="http://gangatvbox.com:25461/images/4v1UPQJy3YL3A2YCg2MrVLgamj8_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bajrangi Bhaijaan
+http://gangatvbox.com:25461/movie/1/gangatv/16148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bakemono No Ko" tvg-logo="http://gangatvbox.com:25461/images/mU8C6uiwGjzzzmD1iedRw4iS5GZ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bakemono No Ko
+http://gangatvbox.com:25461/movie/1/gangatv/16147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bambi" tvg-logo="http://gangatvbox.com:25461/images/nJMyNN2nSOg9FmU5fYqEjWmsH8W_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bambi
+http://gangatvbox.com:25461/movie/1/gangatv/16146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Band Aid" tvg-logo="http://gangatvbox.com:25461/images/lcxx0vN0hhQi7KFpRaJlxAaLLhR_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Band Aid
+http://gangatvbox.com:25461/movie/1/gangatv/16145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barfi!" tvg-logo="http://gangatvbox.com:25461/images/8lVuWmArvr41CvyvpgI3elD5iB1_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Barfi!
+http://gangatvbox.com:25461/movie/1/gangatv/16144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bastille Day" tvg-logo="http://gangatvbox.com:25461/images/9cNsIjA9xUnVahXqAARBCmjEtSx_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bastille Day
+http://gangatvbox.com:25461/movie/1/gangatv/16143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="http://gangatvbox.com:25461/images/k0f0FNZx0eBUCYiVpun9WUh0BFk_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman
+http://gangatvbox.com:25461/movie/1/gangatv/16141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin" tvg-logo="http://gangatvbox.com:25461/images/k0f0FNZx0eBUCYiVpun9WUh0BFk_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman & Robin
+http://gangatvbox.com:25461/movie/1/gangatv/16142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman And Harley Quinn" tvg-logo="http://gangatvbox.com:25461/images/uVdxoD9kn28qC8VQiVA6Uif1QHl_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman And Harley Quinn
+http://gangatvbox.com:25461/movie/1/gangatv/16140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Assault On Arkham" tvg-logo="http://gangatvbox.com:25461/images/nYOoqnGuiUUNE4gccO0JJigfACP_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Assault On Arkham
+http://gangatvbox.com:25461/movie/1/gangatv/16139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Beyond Return Of The Joker" tvg-logo="http://gangatvbox.com:25461/images/h6DVOLpf6LuzncFu10J4LYxPz8c_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Beyond Return Of The Joker
+http://gangatvbox.com:25461/movie/1/gangatv/16138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Forever" tvg-logo="http://gangatvbox.com:25461/images/7kKUspSxDoQ88Dot3mXnoe3lcu0_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Forever
+http://gangatvbox.com:25461/movie/1/gangatv/16137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Gotham By Gaslight" tvg-logo="http://gangatvbox.com:25461/images/7souLi5zqQCnpZVghaXv0Wowi0y_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Gotham By Gaslight
+http://gangatvbox.com:25461/movie/1/gangatv/16136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Ninja" tvg-logo="http://gangatvbox.com:25461/images/zaw7PQ7GvTliBVmfg2o8OJfhWjU_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Ninja
+http://gangatvbox.com:25461/movie/1/gangatv/16244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Return Of The Caped Crusaders" tvg-logo="http://gangatvbox.com:25461/images/hjIEly4DaWzouJ6t51tUjv5ZUFA_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Return Of The Caped Crusaders
+http://gangatvbox.com:25461/movie/1/gangatv/16243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman The Killing Joke" tvg-logo="http://gangatvbox.com:25461/images/xhIAJxPrC3tx7g1PxKmcG2gT71L_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman The Killing Joke
+http://gangatvbox.com:25461/movie/1/gangatv/16242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman Unlimited Monster Mayhem" tvg-logo="http://gangatvbox.com:25461/images/4z5BFxTe1v3c47AYa2v2TUQossP_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Unlimited Monster Mayhem
+http://gangatvbox.com:25461/movie/1/gangatv/16241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman V Superman Dawn Of Justice" tvg-logo="http://gangatvbox.com:25461/images/bzoqI18qCqLtTybElLYpoom4UcH_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman V Superman Dawn Of Justice
+http://gangatvbox.com:25461/movie/1/gangatv/16240.avi
+#EXTINF:-1 tvg-id="" tvg-name="Batman Vs" tvg-logo="http://gangatvbox.com:25461/images/yTbj8Kcp4WFwMRdEejnn55KIsfH_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Batman Vs
+http://gangatvbox.com:25461/movie/1/gangatv/16239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Creek Brawl" tvg-logo="http://gangatvbox.com:25461/images/4mVKihUVPfSlUeb9CtJv37MlE7v_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battle Creek Brawl
+http://gangatvbox.com:25461/movie/1/gangatv/16238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle For Incheon Operation Chromite" tvg-logo="http://gangatvbox.com:25461/images/sccHqMQdjS0O8Exa6LYK2sJSQG4_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battle For Incheon Operation Chromite
+http://gangatvbox.com:25461/movie/1/gangatv/16237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Los Angeles" tvg-logo="http://gangatvbox.com:25461/images/bB5X2oKmkNr4DSXG6i8ZvrIJI6K_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battle Los Angeles
+http://gangatvbox.com:25461/movie/1/gangatv/16236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Of The Sexes" tvg-logo="http://gangatvbox.com:25461/images/bAP7bGzxMFQ0zhuVKkYtcTAoXtt_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battle Of The Sexes
+http://gangatvbox.com:25461/movie/1/gangatv/16235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle Royale" tvg-logo="http://gangatvbox.com:25461/images/cD2mSd25d9QdE1bFXvhIGEVVjPQ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battle Royale
+http://gangatvbox.com:25461/movie/1/gangatv/16234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battleship" tvg-logo="http://gangatvbox.com:25461/images/8b2Uy1T9jhpoj3D15O93s58r0Og_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Battleship
+http://gangatvbox.com:25461/movie/1/gangatv/16233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Boy" tvg-logo="http://gangatvbox.com:25461/images/xxWVLnkx9lPMqer70AZRR4OC3KS_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beautiful Boy
+http://gangatvbox.com:25461/movie/1/gangatv/16232.avi
+#EXTINF:-1 tvg-id="" tvg-name="Beautiful Creatures" tvg-logo="http://gangatvbox.com:25461/images/sxgzi89pt5KlsPzJbIg2yQIdKbB_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beautiful Creatures
+http://gangatvbox.com:25461/movie/1/gangatv/16231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beauty And The Beast" tvg-logo="http://gangatvbox.com:25461/images/dsYDX5PNohJ365ZSh0jpqlIn99A_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beauty And The Beast
+http://gangatvbox.com:25461/movie/1/gangatv/16230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Becks" tvg-logo="http://gangatvbox.com:25461/images/wHoIajRm3opTztFURT8D5qgbUVC_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Becks
+http://gangatvbox.com:25461/movie/1/gangatv/16229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bee Movie" tvg-logo="http://gangatvbox.com:25461/images/cd4vCxUHKJzNnBkBYIVHh6yQIp_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bee Movie
+http://gangatvbox.com:25461/movie/1/gangatv/16228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beerfest" tvg-logo="http://gangatvbox.com:25461/images/2u4eGTXiY0yDhDahJEJ0DUb16hx_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beerfest
+http://gangatvbox.com:25461/movie/1/gangatv/16227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Before And After" tvg-logo="http://gangatvbox.com:25461/images/yTDzXDKNGlmGYk5HuEeZUAypo1p_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Before And After
+http://gangatvbox.com:25461/movie/1/gangatv/16226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Before We Go" tvg-logo="http://gangatvbox.com:25461/images/1uZbDCHeM9PGpmbvt4YHPXCFLuk_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Before We Go
+http://gangatvbox.com:25461/movie/1/gangatv/16225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Behaving Badly" tvg-logo="http://gangatvbox.com:25461/images/lVv1Sh6MDNtdMmBehda88wRWFJX_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Behaving Badly
+http://gangatvbox.com:25461/movie/1/gangatv/16224.avi
+#EXTINF:-1 tvg-id="" tvg-name="Beirut" tvg-logo="http://gangatvbox.com:25461/images/7cLehlXHADXTSILmjVnERRlQ57H_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beirut
+http://gangatvbox.com:25461/movie/1/gangatv/16223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bekas" tvg-logo="http://gangatvbox.com:25461/images/hR8WqOg1p8cccDDQJMtb0IxFUuY_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bekas
+http://gangatvbox.com:25461/movie/1/gangatv/16222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belyy Tigr" tvg-logo="http://gangatvbox.com:25461/images/vG6mE4SDwksaxOacxyYzY2D6eBI_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Belyy Tigr
+http://gangatvbox.com:25461/movie/1/gangatv/16221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bend It Like Beckham" tvg-logo="http://gangatvbox.com:25461/images/aaLAIPw9vJSVyQLy390TJrntEwF_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bend It Like Beckham
+http://gangatvbox.com:25461/movie/1/gangatv/16220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beneath The Harvest Sky" tvg-logo="http://gangatvbox.com:25461/images/aJRSgAWHLyAFhky1KKnAkWmOiY6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beneath The Harvest Sky
+http://gangatvbox.com:25461/movie/1/gangatv/16219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bent" tvg-logo="http://gangatvbox.com:25461/images/xUqimeu4KzFeqTvblNLvG8Y1DAo_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bent
+http://gangatvbox.com:25461/movie/1/gangatv/16218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beruseruku Ougon Jidai-hen I - Haou No Tamago" tvg-logo="http://gangatvbox.com:25461/images/xUqimeu4KzFeqTvblNLvG8Y1DAo_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beruseruku Ougon Jidai-hen I - Haou No Tamago
+http://gangatvbox.com:25461/movie/1/gangatv/16217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beruseruku Ougon Jidai-hen III - Kourin" tvg-logo="http://gangatvbox.com:25461/images/xUqimeu4KzFeqTvblNLvG8Y1DAo_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beruseruku Ougon Jidai-hen III - Kourin
+http://gangatvbox.com:25461/movie/1/gangatv/16216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best Day Ever" tvg-logo="http://gangatvbox.com:25461/images/3vaOwcjZFHWdxHEtOZVnKUBq1yk_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Best Day Ever
+http://gangatvbox.com:25461/movie/1/gangatv/16215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best Seller" tvg-logo="http://gangatvbox.com:25461/images/xtk9B4XdtCzQPAuQMJo14Gj5Hqr_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Best Seller
+http://gangatvbox.com:25461/movie/1/gangatv/16214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beterang" tvg-logo="http://gangatvbox.com:25461/images/94Iz0evqYxzM5pxnJikqDe7cSYm_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beterang
+http://gangatvbox.com:25461/movie/1/gangatv/16213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Better Living Through Chemistry" tvg-logo="http://gangatvbox.com:25461/images/qjKULiLMIHuNl4FIZVn3YZxuuif_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Better Living Through Chemistry
+http://gangatvbox.com:25461/movie/1/gangatv/16212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyond Skyline" tvg-logo="http://gangatvbox.com:25461/images/t2koAH6udVtpdebGMOACLl8Ag1f_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beyond Skyline
+http://gangatvbox.com:25461/movie/1/gangatv/16211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beyond The Mask" tvg-logo="http://gangatvbox.com:25461/images/TjB2hpTJOix1pGqWukMbmWf3Uc_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Beyond The Mask
+http://gangatvbox.com:25461/movie/1/gangatv/16210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bicentennial Man" tvg-logo="http://gangatvbox.com:25461/images/wm9rO3a5dFKnRmbXeRdzMWG6z39_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bicentennial Man
+http://gangatvbox.com:25461/movie/1/gangatv/16209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Daddy" tvg-logo="http://gangatvbox.com:25461/images/bvpEe18j3iPID90YeHGtF7yeOLd_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Daddy
+http://gangatvbox.com:25461/movie/1/gangatv/16208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Driver" tvg-logo="http://gangatvbox.com:25461/images/yC5E0UgyjUKU2uyW2fGVnrTmAY8_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Driver
+http://gangatvbox.com:25461/movie/1/gangatv/16207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Fish" tvg-logo="http://gangatvbox.com:25461/images/qxL7XHvhX4M9eWc3uWzh52S0tYN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Fish
+http://gangatvbox.com:25461/movie/1/gangatv/16206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Momma's House" tvg-logo="http://gangatvbox.com:25461/images/sBzo4JMW5s2pt8Kal8aOvIlPGN6_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Momma's House
+http://gangatvbox.com:25461/movie/1/gangatv/16204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Momma's House 2" tvg-logo="http://gangatvbox.com:25461/images/oWIFuclpM79axfmjydOy8FQi8Xk_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Momma's House 2
+http://gangatvbox.com:25461/movie/1/gangatv/16205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Stan" tvg-logo="http://gangatvbox.com:25461/images/tuTkuMOK5ezxoT8BrC4d1aJ3O3e_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Stan
+http://gangatvbox.com:25461/movie/1/gangatv/16202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Trouble In Little China" tvg-logo="http://gangatvbox.com:25461/images/2n0HEV8FnwjEySpgof7CVeeEyMY_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Big Trouble In Little China
+http://gangatvbox.com:25461/movie/1/gangatv/16201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bill & Ted's Bogus Journey" tvg-logo="http://gangatvbox.com:25461/images/lfj709InbmljVqAXgUk2qjnujNN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bill & Ted's Bogus Journey
+http://gangatvbox.com:25461/movie/1/gangatv/16200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bill & Ted's Excellent Adventure" tvg-logo="http://gangatvbox.com:25461/images/lfj709InbmljVqAXgUk2qjnujNN_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bill & Ted's Excellent Adventure
+http://gangatvbox.com:25461/movie/1/gangatv/16199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billu" tvg-logo="http://gangatvbox.com:25461/images/nmWKskigmvBow3uOP4RPQOIaUux_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Billu
+http://gangatvbox.com:25461/movie/1/gangatv/16198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Binky Nelson Unpacified" tvg-logo="http://gangatvbox.com:25461/images/o9iZuaj8SFnUGQ0NuyPclH6MD2g_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Binky Nelson Unpacified
+http://gangatvbox.com:25461/movie/1/gangatv/16197.avi
+#EXTINF:-1 tvg-id="" tvg-name="Birdemic Shock And Terror" tvg-logo="http://gangatvbox.com:25461/images/vYGp5RtaLKxKO8RNeyHZUIdOi5r_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Birdemic Shock And Terror
+http://gangatvbox.com:25461/movie/1/gangatv/16196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Birdman Or The Unexpected Virtue Of Ignorance" tvg-logo="http://gangatvbox.com:25461/images/lJxWFRrQIOphpD3oPjD0J0d9JYY_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Birdman Or The Unexpected Virtue Of Ignorance
+http://gangatvbox.com:25461/movie/1/gangatv/16195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Hawk Down" tvg-logo="http://gangatvbox.com:25461/images/scsolihQiPUbc4PNwL8uEdARjU3_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Black Hawk Down
+http://gangatvbox.com:25461/movie/1/gangatv/16194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mass" tvg-logo="http://gangatvbox.com:25461/images/3caJZu0uDo0hC94h8Nzlh5DBR73_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Black Mass
+http://gangatvbox.com:25461/movie/1/gangatv/16193.avi
+#EXTINF:-1 tvg-id="" tvg-name="Black Or White" tvg-logo="http://gangatvbox.com:25461/images/6e6wc6vIr767FWOuN1FVAOzaEdu_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Black Or White
+http://gangatvbox.com:25461/movie/1/gangatv/16192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Sea" tvg-logo="http://gangatvbox.com:25461/images/y9ppxGV7mAJEQPvcrDT6tEgKpEO_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Black Sea
+http://gangatvbox.com:25461/movie/1/gangatv/16289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackhat" tvg-logo="http://gangatvbox.com:25461/images/uylmGLPG4sTaNcikHxsQaneI7Wv_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blackhat
+http://gangatvbox.com:25461/movie/1/gangatv/16288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackway" tvg-logo="http://gangatvbox.com:25461/images/8PkAygC7frvdLqpS2ZwG6lmXk3x_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blackway
+http://gangatvbox.com:25461/movie/1/gangatv/16287.avi
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner" tvg-logo="http://gangatvbox.com:25461/images/khdYqU16YC3QVkz6PDbADJjSAey_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blade Runner
+http://gangatvbox.com:25461/movie/1/gangatv/16286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blades Of Glory" tvg-logo="http://gangatvbox.com:25461/images/nIqULF1QxTglH1ke35ou7vzkAuJ_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blades Of Glory
+http://gangatvbox.com:25461/movie/1/gangatv/16285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blame It On Rio" tvg-logo="http://gangatvbox.com:25461/images/9IZ6TzPVrsjA1q7X8SldZli2tNz_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blame It On Rio
+http://gangatvbox.com:25461/movie/1/gangatv/16284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blank Check" tvg-logo="http://gangatvbox.com:25461/images/yuh8zDBhn6Hkzcz4c0ttR5K7W8c_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blank Check
+http://gangatvbox.com:25461/movie/1/gangatv/16283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blast From The Past" tvg-logo="http://gangatvbox.com:25461/images/wXfGw2uzWtrsQZE69BeqeNEf9Ni_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blast From The Past
+http://gangatvbox.com:25461/movie/1/gangatv/16282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blind Fury" tvg-logo="http://gangatvbox.com:25461/images/cqwVU9ITwTJTdsgy6jEPPIp5Jpb_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Blind Fury
+http://gangatvbox.com:25461/movie/1/gangatv/16281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bomb City" tvg-logo="http://gangatvbox.com:25461/images/kho48mWJ5xuiLn5bpuIvO6ZP7ep_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Bomb City
+http://gangatvbox.com:25461/movie/1/gangatv/16280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boulevard" tvg-logo="http://gangatvbox.com:25461/images/154Ji5Whk6wl5Ki4chwqW8Uhy4F_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Boulevard
+http://gangatvbox.com:25461/movie/1/gangatv/16279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boyz N The Hood" tvg-logo="http://gangatvbox.com:25461/images/u3pOT7kztjkGC4rEb4zsECZOsM7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Boyz N The Hood
+http://gangatvbox.com:25461/movie/1/gangatv/16278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Burlesque" tvg-logo="http://gangatvbox.com:25461/images/jk8UwKutJbP0Veeuu7xBErSUmN5_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Burlesque
+http://gangatvbox.com:25461/movie/1/gangatv/16277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caddyshack" tvg-logo="http://gangatvbox.com:25461/images/y2zB6wSA1iM0FVlbGfHBLrTYkn0_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Caddyshack
+http://gangatvbox.com:25461/movie/1/gangatv/16276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cadillac Records" tvg-logo="http://gangatvbox.com:25461/images/jGZgtJXnJG9NOBiS0ratWhVP4Q7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Cadillac Records
+http://gangatvbox.com:25461/movie/1/gangatv/16275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camera Obscura" tvg-logo="http://gangatvbox.com:25461/images/85kxkK6dU2DudXWfaUhTLu3pvU1_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Camera Obscura
+http://gangatvbox.com:25461/movie/1/gangatv/16274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock" tvg-logo="http://gangatvbox.com:25461/images/dTYrXKIJkiiDFDY8hrxXwZpDPb7_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Camp Rock
+http://gangatvbox.com:25461/movie/1/gangatv/16273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camp X-Ray" tvg-logo="http://gangatvbox.com:25461/images/oGcmIqOAbV8npgY57u7tqzwPgc_small.jpg" group-title="Pelis 1080P +10Mb Requeridos",Camp X-Ray
+http://gangatvbox.com:25461/movie/1/gangatv/16272.mkv
 
 
 
