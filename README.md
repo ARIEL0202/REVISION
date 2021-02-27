@@ -1,155 +1,836 @@
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destino final 1
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:-1, TOTALPLAY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destino final 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:-1, ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destino final 3
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv
+#EXTINF:-1, AZTECA 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destino final 4
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:-1, AZTECA 1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Destino final 5
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+#EXTINF:-1, AZTECA 40 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", fredy vs jason
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Freddy%20vs.%20Jason%20%282003%29/Freddy%20Vs.%20Jason%20%282003%29%20%281%29.mkv
+#EXTINF:-1, MEXIQUENSE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", frozen
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Frozen%20%282013%29/Frozen%20%282013%29%20%281%29.mkv
+#EXTINF:-1,AZTECA CORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", furia
-http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Fury.2014/
+#EXTINF:-1, LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GUARDIANES DE LA GALAXIA
-http://axstvdoble.mine.nu/peliculas%20agui/%28G%29/Guardians%20of%20the%20Galaxy%20%282014%29/Guardians%20of%20the%20Galaxy%20%282014%29.mkv
+#EXTINF:-1, CANAL 5 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HAPYY FEET
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Happy%20Feet%20%282006%29Dual/Happy%20Feet%20%282006%29Dual%20%281%29.mkv
+#EXTINF:-1,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HAPYY FEET 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Happy%20Feet%20Two%20%282011%29%20Dual/Happy%20Feet%20Two%20%282011%29%20Dual%20%281%29.mkv
+#EXTINF:-1, SUNDANCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HANSEL Y GRETEL
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hansel%20%26%20Gretel%20Witch%20Hunters%20%282013%29/Hansel%20%26%20Gretel%20Witch%20Hunters%20%282013%29%20Dual%20%281%29.mkv
+#EXTINF:-1,LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JORTOON
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Horton%20Hears%20A%20%20Who%20%282008%29dual/Horton.hears.a.who.2008.dual%20%281%29.mkv
+#EXTINF:-1, FORO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 1
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.1/Hp.1%20%282001%29%20Dual.mkv
+#EXTINF:-1,CANAL 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 3
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.3/H.P.3%20%282004%29%20%281%29.mkv
+#EXTINF:-1,AZTECA 7 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 4
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.4/H.p.4%20%282005%29%20%281%29.mkv
+#EXTINF:-1, CANAL NUEVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 6
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.6/H.p.6%20%282009%29%20%281%29.mkv
+#EXTINF:-1, CANAL ONCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 7
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.7.1/H.p.7.1%20%282010%29%20%281%29.mkv
+#EXTINF:-1, AZTECA UNO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HARRY POTTER 8
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/H.P.7.2/H.p.7.2%20%282011%29%20%281%29.mkv
+#EXTINF:-1,BABY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HOTEL TRANSILVANIA 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hotel%20Transylvania%202%20%282015%29/Hotel.transylvania.2.2015dual.mkv
+#EXTINF:-1,GOLDEN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ORIGEN
-http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Origins%20%282014%29%20Dual/I%20origins%20%282014%29%20dual%20ripeada.mkv
+#EXTINF:-1,EURO CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JACK REACHER
-http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/Jack%20Reacher%20%282012%29%20Dual/Jack%20Reacher%20%282012%29Dual%20ripeado%20%281%29.mkv
+#EXTINF:-1, FILM&ARTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JEEPERS CREEPERS
-http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/Jeepers%20Creepers%20%282001%29Dual/Jeepers%20Creepers%20%282001%29%20Dual%20ripeado%20%281%29.mkv
+#EXTINF:-1,ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JURASSIC PARK 1
-http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/Jurassic%20Park%201%20%281993%29%20Dual/Jurassic.park.1993.dual%20ripeada%20%281%29.mkv
+#EXTINF:-1,FORMULA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JURASSIC PARK 3
-http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/Jurassic%20Park%203%20%282001%29%20Dual/Jurassic.park.3.2001.dual%20ripeada%20%281%29.mkv
+#EXTINF:-1, MULTIMEDIOS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", JURASSIC WORLD
-http://axstvdoble.mine.nu/peliculas%20agui/%28J%29/Jurassic%20World%20%282015%29%20Dual/Jurassic.world.2015.dual%20ripeada%20%281%29.mkv
+#EXTINF:-1, CADENA H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATAQUE A LA CASA BLANCA
-http://axstvdoble.mine.nu/peliculas%20agui/%28L%29/London%20Has%20Fallen%20%282016%29%20Dual/London%20Has%20Fallen%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MOSTER INC
-http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Monsters%20Inc%20%282001%29%20%20Dual/Monsters%20Inc%20%282001%29%20M-1080p%20Dual-1%20%281%29.mkv
+#EXTINF:-1, FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL ARCA DE NOE 2014
-http://axstvdoble.mine.nu/peliculas%20agui/%28N%29/Noah%20%282014%29%201Dual/Noah%20%282014%29%201Dual%20%281%29.mkv
+#EXTINF:-1, GOLF
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UNA NOCHE EN EL MUSEO 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28N%29/Noche%20en%20el%20museo%202%20%282009%29%20Dual/
+#EXTINF:-1, CNN USA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ooops
-http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ooops%21%20Noah%20is%20Gones%20%282015%29%20Dual/Ooops%21%20Noah%20is%20Gones%20%282015%29%20Dual%20%281%29.mkv
+#EXTINF:-1,CNN USA SD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SANGRE SUDOR Y LAGRIMAS
-http://axstvdoble.mine.nu/peliculas%20agui/%28P%29/Pain%20%26%20Gain%20%282013%29%20Dual/Pain%20%26%20Gain%20%282013%29%20Dual%20%281%29.mkv
+#EXTINF:-1,CNN ESPA—OL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PETEER PAN EL REGRESO
-http://axstvdoble.mine.nu/peliculas%20agui/%28P%29/Peter%20Pan%20Return%20to%20NeverLand%20%282002%29%20Latino/Peter%20Pan%20Return%20To%20Neverland%20%282002%29%20Latino%20%281%29.mkv
+#EXTINF:-1, FOX NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PINOCHO
-http://axstvdoble.mine.nu/peliculas%20agui/%28P%29/Pinocchio%20%281940%29%20Dual/Pinocchio%20%281940%29%20Dual%20%281%29.mkv
+#EXTINF:-1, BLOOMBERG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RANGO
-http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Rango%20%282011%29%20%20Dual/Rango%20%282011%29%20%20Dual%20%281%29.mkv
+#EXTINF:-1, BBC NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RATATOUILLE
-http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Ratatouille%20%282007%29%20%20Dual/Ratatouille%20%282007%29%20%20Dual%20%281%29.mkv
+#EXTINF:-1, ALJAZEERA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RESIDENT EVIL 1
-http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%201%20Dual/Resident%20Evil%201%20Dual.mkv
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RESIDENT EVIL APOCALIPSIS 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%202%20%20Apocalipsis%20Dual/Resident%20Evil%202%20%20Apocalipsis%20Dual.mkv
+#EXTINF:-1, CANAL JUDICIAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL196/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RESIDENT EVIL EXTINTION 3
-http://axstvdoble.mine.nu/peliculas%20agui/%28R%29/Resident%20Evil%203%20Extinction%20Dual/Resident%20Evil%203%20Extinction%20Dual.mkv
+#EXTINF:-1, HLN CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SHEK 1
-http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Shrek%201%202001%20Dual/Shrek%201%202001%20Dual%20%281%29.mkv
+#EXTINF:-1, ANTENA 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SHEK 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Shrek%202%20%282004%29%20Dual/Shrek%202%20%282004%29%20Dual%20%281%29.mkv
+#EXTINF:-1, FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SIGNS
-http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Signs%20%282002%29%20Dual/Signs%20%282002%29%20Dual%20%281%29.mkv
+#EXTINF:-1, SONY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EL SÑOR DE LOS ANILLOS 2
-http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/T.L.O.T.R%20-%20The%20Two%20Towers%20%282002%29%20Dual/T.L.O.T.R%20-%20The%20Two%20Towers%20%282002%29%20Dual.mkv
+#EXTINF:-1, WARNER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TARZAN
-http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/Tarzan%20%282013%29%20Dual/Tarzan%20%282013%29%20Dual%20%281%29.mkv
+#EXTINF:-1, UNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LOS ALVENGER LA ERA DE ULRON
-http://axstvdoble.mine.nu/peliculas%20agui/%28T%29/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual/the%20Avengers%20Age%20of%20Ultron%20%282015%29%20Dual%20%281%29.mkv
+#EXTINF:-1, FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", UP
-http://axstvdoble.mine.nu/peliculas%20agui/%28U%29/Up%20%282009%29Dual/Up%20%282009%29%20Dual-2%20%281%29.mkv
+#EXTINF:-1, A&E
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VACACIONES 2015
-http://axstvdoble.mine.nu/peliculas%20agui/%28V%29/Vacation%20%282015%29%20Dual/Vacation%20%282015%29%20Dual%20%281%29.mkv
+#EXTINF:-1, AXN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WALL E DISNEY
-http://axstvdoble.mine.nu/peliculas%20agui/%28W%29/Wall%20E%20%282008%29%20Dual/Wall%20E%20%282008%29%20dual.mkv
+#EXTINF:-1, TRU TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZOOTOPIA
-http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zootopia%20%282016%29%20Dual/Zootopia%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1, COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZAMBESTIA
-http://axstvdoble.mine.nu/peliculas%20agui/%28Z%29/Zambezia%20%282012%29%20Dual/Zambezia%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:-1,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LOS X-MEN 2016
-http://axstvdoble.mine.nu/peliculas%20agui/%28X%29/X-Men%20Apocalypse%20%282016%29%20Dual/X-Men%20Apocalypse%20%282016%29%20Dual%20%281%29.mkv
+#EXTINF:-1, HOLA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.pelisonic.com/wp-content/uploads/2017/02/chicos-2-200x300.jpg" group-title="Without category", los chicos del maiz 1992
-http://videmoon.com/movies/1992/Los%20Chicos%20del%20Maiz%202%20(1992).MP4
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE05.m3u8
+
+#EXTINF:-1, AZCORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
+
+#EXTINF:-1, FOX CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8
+
+#EXTINF:-1, E! ENTRETAIMENT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
+
+#EXTINF:-1, SYFY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
+
+#EXTINF:-1, ID
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8
+
+#EXTINF:-1, TNT SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+
+#EXTINF:-1, GOURMET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+
+#EXTINF:-1, GARAJE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
+
+#EXTINF:-1, GLITZ
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
+
+#EXTINF:-1, FOX LIFE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
+
+#EXTINF:-1, DISTRITO COMEDIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
+
+#EXTINF:-1, TBS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
+
+#EXTINF:-1, TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+
+#EXTINF:-1, AZMUNDO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
+
+#EXTINF:-1, DISCOBERY KIDS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
+
+#EXTINF:-1, DISNEY JR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE05.m3u8
+
+#EXTINF:-1, NICJ JR.
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE05.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+
+#EXTINF:-1, NICKTOONS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
+
+#EXTINF:-1, NICK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE05.m3u8
+
+#EXTINF:-1, NICK HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE05.m3u8
+
+#EXTINF:-1, CARTOON NETWORK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE05.m3u8
+
+#EXTINF:-1, XD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE05.m3u8
+
+#EXTINF:-1, BOOMERANG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE05.m3u8
+
+#EXTINF:-1, TIIN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE05.m3u8
+
+#EXTINF:-1, TOONCAST
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
+
+#EXTINF:-1, FXM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE05.m3u8
+
+#EXTINF:-1, DEPELICULA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+
+#EXTINF:-1, COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL341/PROFILE05.m3u8
+
+#EXTINF:-1, DISCOBERY THEATER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+
+#EXTINF:-1, HISTORY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+
+#EXTINF:-1, NATGEO WILD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+
+#EXTINF:-1, DISCOBERY WORLD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+
+#EXTINF:-1, DISCOBERY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+
+#EXTINF:-1, H&H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+
+#EXTINF:-1, NAT GEO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+
+#EXTINF:-1, LIFETIME
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+
+#EXTINF:-1, SCI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+
+#EXTINF:-1, DISCOBERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+
+#EXTINF:-1, TLC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+
+#EXTINF:-1, WOBI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+
+#EXTINF:-1, INGENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
+
+#EXTINF:-1, FOX SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8
+
+#EXTINF:-1, FOX ACTION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8
+
+#EXTINF:-1, FOX MOVIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
+
+#EXTINF:-1, FOX CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8
+
+#EXTINF:-1, FOX CLSSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8
+
+#EXTINF:-1, AZTECA CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
+
+#EXTINF:-1, CINECANAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+
+#EXTINF:-1, TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+
+#EXTINF:-1, GOLDEN PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
+
+#EXTINF:-1, FXM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8
+
+#EXTINF:-1, DPELICULA PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
+
+#EXTINF:-1, AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+
+#EXTINF:-1, SPACE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE05.m3u8
+
+#EXTINF:-1, CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+
+#EXTINF:-1, TNT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
+
+#EXTINF:-1, EDGE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+
+#EXTINF:-1, AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE05.m3u8
+
+#EXTINF:-1, SPACE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
+
+#EXTINF:-1, STUDIO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+
+#EXTINF:-1, I SAT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
+
+#EXTINF:-1, TCM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+
+#EXTINF:-1, ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+
+#EXTINF:-1, ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+
+#EXTINF:-1, PX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+
+#EXTINF:-1, ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+
+#EXTINF:-1, ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+
+#EXTINF:-1, AYM SPORT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8
+
+#EXTINF:-1, MILENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE05.m3u8
+
+#EXTINF:-1, TVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
+
+#EXTINF:-1, DW
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE05.m3u8
+
+#EXTINF:-1, MTV LIVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+
+#EXTINF:-1, TELHIT PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+
+#EXTINF:-1, VH1 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+
+#EXTINF:-1, AZCLIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+
+#EXTINF:-1, MTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+
+#EXTINF:-1, MTV HITS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+
+#EXTINF:-1, 1 CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+
+#EXTINF:-1, RMS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+
+#EXTINF:-1, BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+
+#EXTINF:-1, VH1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE05.m3u8
+
+#EXTINF:0,TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+
+#EXTINF:0,History Channel
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+
+#EXTINF:0,H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+
+#EXTINF:-1, BAJA CALIDAD WwW.listaiptv.org
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE01.m3u8
+
+#EXTINF:-1, ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE01.m3u8
+
+#EXTINF:-1, AZTECA 7
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE01.m3u8
+
+#EXTINF:-1, AZTECA 1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL23/PROFILE01.m3u8
+
+#EXTINF:-1, AZTECA 40 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL40/PROFILE01.m3u8
+
+#EXTINF:-1, MEXIQUENSE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE01.m3u8
+
+#EXTINF:-1,AZTECA CORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE01.m3u8
+
+#EXTINF:-1, LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE01.m3u8
+
+#EXTINF:-1, CANAL 5 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE01.m3u8
+
+#EXTINF:-1,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL66/PROFILE01.m3u8
+
+#EXTINF:-1, SUNDANCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL69/PROFILE01.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE01.m3u8
+
+#EXTINF:-1, FORO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE01.m3u8
+
+#EXTINF:-1,CANAL 5
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE01.m3u8
+
+#EXTINF:-1,AZTECA 7 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE01.m3u8
+
+#EXTINF:-1, CANAL NUEVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE01.m3u8
+
+#EXTINF:-1, CANAL ONCE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE01.m3u8
+
+#EXTINF:-1, AZTECA UNO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE01.m3u8
+
+#EXTINF:-1,BABY TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL116/PROFILE01.m3u8
+
+#EXTINF:-1,GOLDEN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE01.m3u8
+
+#EXTINF:-1,EURO CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE01.m3u8
+
+#EXTINF:-1, FILM&ARTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE01.m3u8
+
+#EXTINF:-1,ADN 40
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE01.m3u8
+
+#EXTINF:-1,FORMULA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE01.m3u8
+
+#EXTINF:-1, MULTIMEDIOS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE01.m3u8
+
+#EXTINF:-1, CADENA H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE01.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE01.m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE01.m3u8
+
+#EXTINF:-1, GOLF
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE01.m3u8
+
+#EXTINF:-1, CNN USA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL185/PROFILE01.m3u8
+
+#EXTINF:-1,CNN USA SD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE01.m3u8
+
+#EXTINF:-1,CNN ESPA—OL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL187/PROFILE01.m3u8
+
+#EXTINF:-1, FOX NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE01.m3u8
+
+#EXTINF:-1, BLOOMBERG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL190/PROFILE01.m3u8
+
+#EXTINF:-1, BBC NEWS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE01.m3u8
+
+#EXTINF:-1, ALJAZEERA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL192/PROFILE01.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE01.m3u8
+
+#EXTINF:-1, CANAL JUDICIAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL196/PROFILE01.m3u8
+
+#EXTINF:-1, HLN CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE01.m3u8
+
+#EXTINF:-1, ANTENA 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE01.m3u8
+
+#EXTINF:-1, FOX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE01.m3u8
+
+#EXTINF:-1, SONY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE01.m3u8
+
+#EXTINF:-1, WARNER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE01.m3u8
+
+#EXTINF:-1, UNIVERSAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE01.m3u8
+
+#EXTINF:-1, FX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE01.m3u8
+
+#EXTINF:-1, A&E
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE01.m3u8
+
+#EXTINF:-1, AXN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE01.m3u8
+
+#EXTINF:-1, TRU TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE01.m3u8
+
+#EXTINF:-1, COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE01.m3u8
+
+#EXTINF:-1,UNICABLE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE01.m3u8
+
+#EXTINF:-1, HOLA TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE01.m3u8
+
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL221/PROFILE01.m3u8
+
+#EXTINF:-1, AZCORAZON
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE01.m3u8
+
+#EXTINF:-1, FOX CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE01.m3u8
+
+#EXTINF:-1, E! ENTRETAIMENT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE01.m3u8
+
+#EXTINF:-1, SYFY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE01.m3u8
+
+#EXTINF:-1, ID
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE01.m3u8
+
+#EXTINF:-1, TNT SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE01.m3u8
+
+#EXTINF:-1, GOURMET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE01.m3u8
+
+#EXTINF:-1, GARAJE TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE01.m3u8
+
+#EXTINF:-1, GLITZ
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE01.m3u8
+
+#EXTINF:-1, FOX LIFE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE01.m3u8
+
+#EXTINF:-1, DISTRITO COMEDIA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE01.m3u8
+
+#EXTINF:-1, TBS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE01.m3u8
+
+#EXTINF:-1, TLNOVELAS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE01.m3u8
+
+#EXTINF:-1, AZMUNDO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE01.m3u8
+
+#EXTINF:-1, DISCOBERY KIDS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE01.m3u8
+
+#EXTINF:-1, DISNEY JR
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE01.m3u8
+
+#EXTINF:-1, NICJ JR.
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE01.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE01.m3u8
+
+#EXTINF:-1, NICKTOONS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE01.m3u8
+
+#EXTINF:-1, NICK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE01.m3u8
+
+#EXTINF:-1, NICK HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL317/PROFILE01.m3u8
+
+#EXTINF:-1, CARTOON NETWORK
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE01.m3u8
+
+#EXTINF:-1, XD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE01.m3u8
+
+#EXTINF:-1, BOOMERANG
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE01.m3u8
+
+#EXTINF:-1, TIIN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL325/PROFILE01.m3u8
+
+#EXTINF:-1, TOONCAST
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE01.m3u8
+
+#EXTINF:-1, FXM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE01.m3u8
+
+#EXTINF:-1, DEPELICULA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE01.m3u8
+
+#EXTINF:-1, COMEDY CENTRAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL341/PROFILE01.m3u8
+
+#EXTINF:-1, DISCOBERY THEATER
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE01.m3u8
+
+#EXTINF:-1, HISTORY
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE01.m3u8
+
+#EXTINF:-1, NATGEO WILD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE01.m3u8
+
+#EXTINF:-1, DISCOBERY WORLD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE01.m3u8
+
+#EXTINF:-1, DISCOBERY CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE01.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE01.m3u8
+
+#EXTINF:-1, H&H
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE01.m3u8
+
+#EXTINF:-1, NAT GEO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE01.m3u8
+
+#EXTINF:-1, LIFETIME
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE01.m3u8
+
+#EXTINF:-1, SCI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE01.m3u8
+
+#EXTINF:-1, DISCOBERY CIVILIZATION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE01.m3u8
+
+#EXTINF:-1, TLC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE01.m3u8
+
+#EXTINF:-1, WOBI
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE01.m3u8
+
+#EXTINF:-1, INGENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE01.m3u8
+
+#EXTINF:-1, FOX SERIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE01.m3u8
+
+#EXTINF:-1, FOX ACTION
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE01.m3u8
+
+#EXTINF:-1, FOX MOVIES
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE01.m3u8
+
+#EXTINF:-1, FOX CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE01.m3u8
+
+#EXTINF:-1, FOX CLSSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE01.m3u8
+
+#EXTINF:-1, AZTECA CINEMA
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE01.m3u8
+
+#EXTINF:-1, CINECANAL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE01.m3u8
+
+#EXTINF:-1, TNT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE01.m3u8
+
+#EXTINF:-1, GOLDEN PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE01.m3u8
+
+#EXTINF:-1, FXM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE01.m3u8
+
+#EXTINF:-1, DPELICULA PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE01.m3u8
+
+#EXTINF:-1, AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE01.m3u8
+
+#EXTINF:-1, SPACE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE01.m3u8
+
+#EXTINF:-1,Unknown
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE01.m3u8
+
+#EXTINF:-1, CINEMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE01.m3u8
+
+#EXTINF:-1, TNT HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE01.m3u8
+
+#EXTINF:-1, EDGE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE01.m3u8
+
+#EXTINF:-1, AMC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE01.m3u8
+
+#EXTINF:-1, SPACE HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE01.m3u8
+
+#EXTINF:-1, STUDIO
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE01.m3u8
+
+#EXTINF:-1, I SAT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE01.m3u8
+
+#EXTINF:-1, TCM
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE01.m3u8
+
+#EXTINF:-1, ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE01.m3u8
+
+#EXTINF:-1, ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE01.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE01.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE01.m3u8
+
+#EXTINF:-1, PX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE01.m3u8
+
+#EXTINF:-1, ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE01.m3u8
+
+#EXTINF:-1, ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE01.m3u8
+
+#EXTINF:-1, AYM SPORT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE01.m3u8
+
+#EXTINF:-1, MILENIO TV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE01.m3u8
+
+#EXTINF:-1, TVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE01.m3u8
+
+#EXTINF:-1, DW
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL654/PROFILE01.m3u8
+
+#EXTINF:-1, MTV LIVE
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE01.m3u8
+
+#EXTINF:-1, TELHIT PLUS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE01.m3u8
+
+#EXTINF:-1, VH1 HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE01.m3u8
+
+#EXTINF:-1, AZCLIC
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE01.m3u8
+
+#EXTINF:-1, MTV
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE01.m3u8
+
+#EXTINF:-1, MTV HITS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE01.m3u8
+
+#EXTINF:-1, 1 CLASSICS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE01.m3u8
+
+#EXTINF:-1, RMS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE01.m3u8
+
+#EXTINF:-1, BANDAMAX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE01.m3u8
+
+#EXTINF:-1, VH1
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE01.m3u8
