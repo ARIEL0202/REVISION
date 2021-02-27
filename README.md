@@ -1,90 +1,71 @@
-#EXTINF:0,My Bloody Valentine (2009)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292083.avi
-#EXTINF:0,Piranha 3D (2010)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292084.avi
-#EXTINF:0,Silent Hill 2: The Movie (2012)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292086.mkv
-#EXTINF:0,The Final Destination (2009)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292087.avi
-#EXTINF:0,The Strangers (2008)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292088.avi
-#EXTINF:0,100 Feet (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292010.avi
-#EXTINF:0,11-11-11 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292011.avi
-#EXTINF:0,Devil's Due (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292012.mp4
-#EXTINF:0,Grace (D).
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292013.mp4
-#EXTINF:0,Irreversible (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292014.mkv
-#EXTINF:0,Juan And Vanesa (2018) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292015.mkv
-#EXTINF:0,Mirrors 2 (2010) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292016.avi
-#EXTINF:0,Sinister 2 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292017.mp4
-#EXTINF:0,Spring (2014) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292018.mp4
-#EXTINF:0,SuperFly 2018 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292019.mkv
-#EXTINF:0,The Honor List (2018) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292020.mkv
-#EXTINF:0,The Woman in Black (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292021.mkv
-#EXTINF:0,The Woman in Black 2: Angel of Death (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292022.mp4
-#EXTINF:0,Venom (2018) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/292023.mkv
-#EXTINF:0,Asylum: El experimento (2014) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291743.mp4
-#EXTINF:0,Backcountry (2015) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291744.mp4
-#EXTINF:0,Evil Dead (2013) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291745.mkv
-#EXTINF:0,Insidious (2010) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291746.mp4
-#EXTINF:0,Insidious: Chapter 2 (2013) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291747.mp4
-#EXTINF:0,Insidious: Chapter 3 (2015) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291748.mp4
-#EXTINF:0,Poltergeist (2015) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291749.mp4
-#EXTINF:0,Sorority Row (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291750.avi
-#EXTINF:0,The Atticus Institute (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291751.mp4
-#EXTINF:0,The Collector (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291752.avi
-#EXTINF:0,The Echo (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291753.avi
-#EXTINF:0,The Forest (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291754.mp4
-#EXTINF:0,The Veil (2016) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/291755.mp4
-#EXTINF:0,Calibre (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290932.mkv
-#EXTINF:0,Christmas Wedding Planner 2017 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290933.mkv
-#EXTINF:0,Cold Skin 2017  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290934.mkv
-#EXTINF:0,Cuernavaca 2017  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290935.mkv
-#EXTINF:0,Gotti (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290936.mkv
-#EXTINF:0,If You Saw His Heart (2017) (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290937.mkv
-#EXTINF:0,Journey's End (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290938.mkv
-#EXTINF:0,Literally -  Right Before Aaron 2017  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290939.mkv
-#EXTINF:0,Mile 22 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290940.mkv
-#EXTINF:0,Peter Pan: The Quest for the Never Book  2018  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290941.mkv
-#EXTINF:0,Rocky 1976  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290943.mkv
-#EXTINF:0,Rocky II 1979 (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290944.mkv
-#EXTINF:0,Rocky III 1982  (D)
-http://x.mytvxweb.co:25461/movie/Augusto/12345/290945.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Alternative
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC122/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Mc Play
+http://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Brits + Hits
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC143/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Dance
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC127/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Hip Hop
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC106/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Hit List
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC100/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Indie
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC129/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Metal
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC139/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Mexicana
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC131/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Musica Urbana
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC128/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Pop Country
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC132/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Pop Hits
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC133/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Pop Latino
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC123/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice R&B Soul
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC124/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Rap
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC125/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Rap 2K
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC141/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Rock
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC138/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Teen Beats
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC118/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Country
+http://edge.music-choice-vc-chainb1.top.comcast.net/VideoChannels/VC-MC121/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Tropicales
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC137/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice 90s
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC140/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Y2K
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC145/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Kids Only
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC130/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6b/4a/8c/6b4a8c66-8505-6fce-da1f-3228a265429a/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.jpg" group-title="Musica", Music Choice Toodlers Tunes
+http://edge.music-choice-vc-chainb2.top.comcast.net/VideoChannels/VC-MC144/.m3u8
