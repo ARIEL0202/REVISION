@@ -371,10 +371,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13824
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8760
 #EXTINF:-1,Blaze ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7184
-#EXTINF:-1,Caza y Pesca FHD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16269
-#EXTINF:-1,Caza y Pesca ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7232
 #EXTINF:-1,Iberalia ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7171  
 #EXTINF:-1,Odisea TV HD ES
@@ -721,6 +717,7 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5439
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682980
 #EXTINF:-1,Smart Sport 1 HD TR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5446
+
 #EXTINF:-1,------- Global Sports -------
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682927
 #EXTINF:-1,Telefoot Stadium HD FR
@@ -1061,6 +1058,7 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683774
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/678724
 #EXTINF:-1,Celtic FC TV [Match Time] HD UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/678725
+
 #EXTINF:-1,------- UK BBC National -------
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/671696
 #EXTINF:-1,BBC One FHD VIP UK
@@ -1139,6 +1137,7 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/671411
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6548
 #EXTINF:-1,RTE News HD VIP UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/9503
+
 #EXTINF:-1,----- UK Movies & Series -----
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/15575
 #EXTINF:-1,Sky Cinema Premiere FHD VIP UK
