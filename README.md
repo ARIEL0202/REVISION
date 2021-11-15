@@ -355,3 +355,39 @@ https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE
 https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES", CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES", TU CINE   
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES", CINE HORRORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES",CINE JUNTOS  
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/5NMZLgS0/CINE-SURE-O.jpg" group-title="CINE Y SERIES", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/ry4N5p91/cinelatino.png" group-title="CINE Y SERIES", CINE LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
+
+#EXTINF:-80 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="CINE Y SERIES", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/gcSjrgp5/zeemundo.png" group-title="CINE", ZEE MUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/bwgkYY4Q/zptv.png" group-title="CINE", ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
+
+#EXTINF:-1 tvg-id="140328" tvg-name="CINE CASTATROFICO" tvg-logo="" group-title="CINE", CINE CASTATROFICO
+http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
