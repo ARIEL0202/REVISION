@@ -354,3 +354,4 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77uVMGw.png" group-title="CINE Y SERIES 2",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
+   
