@@ -1,11 +1,4 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png" group-title="CINE Y SERIES", CINE CLASICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
+edEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -109,8 +102,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb00070
 
 
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928030aa8a70007c1f213/colorLogoPNG.png" group-title="CINE Y SERIES 2", NASHVILLE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928030aa8a70007c1f213livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928d54a4f730007ff76bc/colorLogoPNG.png" group-title="CINE Y SERIES 2", CSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
@@ -509,6 +501,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a2b4b1ad8fd00079
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/colorLogoPNG.png" group-title="CINE Y SERIES 2", ANDROMEDA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bccae160007c71eec/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928030aa8a70007c1f213/colorLogoPNG.png" group-title="CINE Y SERIES 2", NASHVILLE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928030aa8a70007c1f213livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
