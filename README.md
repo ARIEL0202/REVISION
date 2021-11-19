@@ -429,6 +429,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8db96bc
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/604928030aa8a70007c1f213/colorLogoPNG.png" group-title="CINE Y SERIES 2", NASHVILLE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928030aa8a70007c1f213livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
+#EXTINF: -1 group-title = "Puerto Rico" tvg-logo = "https://innovatv.live/posters/1602347959455.png", WIPR
+http://51.79.18.128:8081/PUERTORICO%7CWIPR/PUERTORICO%7CWIPR/playlist.m3u8
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557823328.jpg", MICROVISION
+http://66.70.176.103:8081/REPDOM%7CMICROVISION/REPDOM%7CMICROVISION/playlist.m3u8
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1602557908250.jpg", ONDA-TV
+http://66.70.176.103:8081/REPDOM%7CONDATV/REPDOM%7CONDATV/playlist.m3u8
+#EXTINF: -1 group-title = "Rep Dominicana" tvg-logo = "https://innovatv.live/posters/1613968680452.png", SITV
+http://66.70.176.103:8081/REPDOM%7CSITV/REPDOM%7CSITV/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gtOJEZDXT74/X6ial-IEvuI/AAAAAAAA7HE/DVodKb8gbr4UYli0KdKGZf9Bfz4WrXqwQCK8BGAsYHg/s0/2020-11-08.png" group-title="CINE Y SERIES 2", INFINITA
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
