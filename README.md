@@ -30,9 +30,6 @@ https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
@@ -148,7 +145,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
 
 
-
 #EXTINF:-1,Wow TV www.achoAPPS.com
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 #EXTINF:-1,HDFashion www.achoAPPS.com
@@ -159,5 +155,3 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Teleritmo | SD www.achoAPPS.com
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-
