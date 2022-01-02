@@ -1,333 +1,35 @@
+#EXTINF:-432 tvg-logo="https://i.postimg.cc/SRjZg75r/orbitatv.png" group-title="MÚSICA", ÓRBITA TV
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
+
+#EXTINF:-1,ALEGRIA TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+
+#EXTINF:-1,HOLVET TV
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+
+#EXTINF:-1, ROMANA TV www.achoAPPS.com
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", MI CINE LIFE
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="DOMINICAN REPUBLIC",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-423 tvg-logo="https://i.postimg.cc/bNBDtHpT/maximafm.png" group-title="MÚSICA", MÁXIMA FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
+
+#EXTINF:-1,Wow TV www.achoAPPS.com
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9n0sOZ.png" group-title="CURIOSIDAD",BeXtreme TV
 https://video1.getstreamhosting.com:1936/8106/8106/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="NOTICIAS", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="RADIO AMBA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-medios-rioja.jpg" group-title="CUYO", MEDIOSRIOJA TV
-http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialradio.tv/wp-content/uploads/2018/05/DIAL-RADIO-LOGO-WEB.png" group-title="RADIO CUYO", RADIO DIAL SAN RAFAEL
-https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO CENTRO", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
-http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="RADIO NORTE", RADIO AZAHARES FM 101.5 CORRIENTES
-http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://rbdweb.com/wp-content/uploads/2020/03/MARCA-BLANCA.png" group-title="RADIO CENTRO", BEST DIGITAL ROSARIO
-https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.diariodelsol.com.ar/images/2.jpeg" group-title="RADIO CUYO", FM DEL SOL 91.9 SAN JUAN
-http://streamyes.alsolnet.com/fmdelsoltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/rbdradio.com.ar/wp-content/uploads/2021/01/LOGO-RBD-CURVAS-TRANS-e1611097859586.png?fit=100%2C100&ssl=1" group-title="RADIO AMBA", RBD RADIO
-http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://surargentinormx.com/wp-content/uploads/elementor/thumbs/logo-orseqvkm3gvq36wnhdc1e31nwkvtfxm51npplxeve0.jpg" group-title="RADIO PATAGONIA", RMX 105.1 FM USHUAIA
-http://streamyes.alsolnet.com/rmxtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.elchubut.com.ar/img/logo.png" group-title="RADIO PATAGONIA", CHUBUT TV 90.1 FM 
-https://streamyes.alsolnet.com/elchubuttv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="NOTICIAS", IP  24.5         
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.grupocronica.com.ar/mediakit/wp-content/uploads/2017/10/cronica-hd-con-sombra-grande.png" group-title="NOTICIAS", CRONICA HD  24.4
-https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="NOTICIAS", CANAL 26  24.2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS", TELEFÉ NOTICIAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="AMBA", TELEFÉ CLÁSICO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="AMBA", CANAL 13  33.1
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="AMBA", NET TV  27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-           
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="AMBA", CANAL ENCUENTRO 22.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="AMBA", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8   
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Od4eldPqILM/XjtCKHxeYSI/AAAAAAAAvok/HDnuaXs9cCsFzbr0QrQtw3bYeDB0_5osACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CINCO TV TIGRE  30.1
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/08/canal-telecreativa.jpg" group-title="AMBA", TELECREATIVA LANUS
-https://panel.dattalive.com/8012/8012/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SlqJrd0GiYk/XjtCBz2FbhI/AAAAAAAAvog/HkkKzNWrEOYiE08Rdlw-mxsDtzpJ_zD8wCK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", CANAL 6 MORENO
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC2PROV.png" group-title="AMBA", PROVINCIAL TV
-http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.canalkzo.com/images/lg_kzo.svg" group-title="AMBA", KZO
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/mirador.png" group-title="AMBA", MIRADOR  22.3
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="AMBA", TELEMAX  26.3
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="AMBA", UNIFE TV  25.1
 https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="AMBA", GOURMET TV
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg" group-title="AMBA", TVU LA PLATA
-https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1" group-title="AMBA", CANAL 22 WEB
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="AMBA", MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", TERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radioan24.com.ar/wp-content/uploads/2020/11/logo-radiotvan24-272X136-definitivo.png" group-title="AMBA", AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
-
-#EXTINF:-1 group-title="CENTRO", EL DOCE CORDOBA
-https://www.youtube.com/watch?v=gBbMbqILzXU  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="CENTRO", CANAL 9 PARANA
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="CUYO", CANAL 9 MENDOZA
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5d4CZcV4phPi6eGsr1eeaBDFwh4dQ-XmLtQ&usqp=CAU" group-title="CUYO", ACEQUIA TV MENDOZA
-http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/El-Tres-TV-Rosario-en-vivo-Online.png" group-title="CENTRO", CANAL 3 ROSARIO
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="CENTRO", TELEFE ROSARIO
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/Canal-Universidad-de-Mar-del-Plata-en-vivo-Online.png?fit=1920%2C1080" group-title="PAMPEANA", UNIVERSIDAD TV MAR DEL PLATA
-https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54zyfcjg9S6nQD6e0KMJSSUA)/dm/3/x7kvvgi/s/live-1.m3u8#cell=lnyc
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6yBSbBB-AHE/XjtBSO4ZGtI/AAAAAAAAvoQ/_ZYx1XEmyo0wXnwYQDegDsetCUlb9u0FwCK8BGAsYHg/s0/2020-02-05.png" group-title="PAMPEANA", Canal 41 XFN MAR DEL PLATA
-https://5f6e1fe8f2d2e.streamlock.net/canalxfn/canalxfn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="PAMPEANA", CANAL 3 PINAMAR
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ulhiusmLK5w/XjtA5Bi-zrI/AAAAAAAAvoI/A7OP1Flx4xM4g5VOMH9ZfUz7HrxtW3OMQCK8BGAsYHg/s0/2020-02-05.png" group-title="PAMPEANA", CANAL 2 TELPIN PINAMAR
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="CENTRO", SANTA FE CANAL
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="CENTRO", LITUS TV SANTA FE
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", AIRE DE SANTA FE
-https://sc1.stweb.tv/airedigital/live/playlist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="CENTRO", ACTIVA TV SANTA FE
-https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
-https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-2-Jujuy-en-vivo-Online.png?fit=1920%2C1080&ssl=1" group-title="NORTE", CANAL 2 JUJUY
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-mheC_82BX9k/XjtJQGo368I/AAAAAAAAvrE/3PLKryDEU3UT_TEYgef0tCaWxwj2OJtLQCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", CANAL 4 JUJUY
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1412506057_b121000.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
-http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
-
-#EXTINF:-1 group-title="CUYO", CANAL 8 SAN JUAN
-https://www.youtube.com/watch?v=mlOpFbdO99E
-
-#EXTINF:-1 tvg-logo="https://www.telesoldiario.com/wp-content/uploads/2019/03/telesol.jpg" group-title="CUYO", TELESOL SAN JUAN
-https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Qopz8YZytSM/hqdefault.jpg" group-title="CUYO", AM 1020 SAN JUAN
-http://51.79.83.93:9998/live/am1020/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
-https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhml_0zRy7_oxvUndx_46JNVb1uDb3UO8_woGi6qg=s900-c-k-c0x00ffffff-no-rj" group-title="CUYO", ZONDA TV SAN JUAN
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="CUYO", DEL SUR TV SAN JUAN
-http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
-http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_QTSBRhcjGU/XATV6kEZxBI/AAAAAAAAA64/EfPiSHBQFZMfzxSac9m9gDWR1VFtBGUWQCLcBGAs/s400/Canal_XAMA_TV_San_Juan.png" group-title="CUYO", XAMA TV SAN JUAN
-https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://albardontv.com.ar/wp-content/uploads/2020/02/1.png" group-title="CUYO", ALBARDON TV SAN JUAN
-https://59537faa0729a.streamlock.net/albardontv/albardontv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", 13 MAX CORRIENTES
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTV63G3ylzZ5HZpuXGO3gMM_karSoJ9au5N2w&usqp=CAU" group-title="NORTE", 5TV CORRIENTES
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Telefe_Neuqu%C3%A9n_%282018%29.png/133px-Telefe_Neuqu%C3%A9n_%282018%29.png" group-title="PATAGONIA", TELEFE NEUQUEN
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0248
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-E9zOAkKHOaw/XjtG9WkFKEI/AAAAAAAAvqQ/j2nVTLIMsZUsZfVliojEB5JU601yHtKQACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", RTN NEUQUEN
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XAHrxHCDM7s/XjtFb5uwTDI/AAAAAAAAvpo/5p94Cjf1Um8P4waIXUAAVfX9T1x-TaeGQCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CN 24/7 NEUQUEN 
-https://panel.dattalive.com/6605140/6605140/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.valletv.com/Graficos/logo.jpg" group-title="PATAGONIA", VALLE TV NEUQUEN
-http://stmv6.srvstm.com/valletv/valletv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSw2yMcTqhKdvfWtFct2pBroKSFgxMlqYTAw&usqp=CAU" group-title="NORTE", CANAL 7 CATAMARCA
-https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Canal-3-La-Pampa-en-vivo-Online.png" group-title="PAMPEANA", CANAL 3 LA PAMPA
-https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://noticiasrionegro.nyc3.digitaloceanspaces.com/images/970695c419f6fdbe5e8d5a4f176375a6.jpg" group-title="PATAGONIA", CANAL 10 RIO NEGRO
-https://panel.dattalive.com/8204/8204/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://canal7.tv/wp-content/uploads/2018/02/canal7-logos-02.png" group-title="NORTE", CANAL 7 SANTIAGO DEL ESTERO
-https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109636_UTN_TV.png" group-title="PATAGONIA", UTN TV RIO GALLEGOS
-https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", CANAL 7 CHUBUT
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="CUYO", CANAL 2 SAN LUIS
-https://59d52c5a5ce5e.streamlock.net:4443/sanluisctv/sanluisctv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://ciudadtv.com.ar/imgs/logo.png" group-title="NORTE", CIUDAD TV CHACO
-http://coninfo.net:1935/chacodxdtv/live/chunklist_w594189072.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-TgZv-RGCYoc/XrYHwcpfivI/AAAAAAAA0gw/AuqgxhioqLc1qhSHFDdH1ZftA0PKvOnzQCK8BGAsYHg/s0/2020-05-08.jpg" group-title="NORTE", 9LINK CHACO
-http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="CENTRO", CANAL 4 TELECONDOR
-https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--13LR.png" group-title="CUYO", CANAL 13 LA RIOJA
-https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hG84H0QxC34/XjtD8OwAKBI/AAAAAAAAvpQ/Lhs3FJpP72UaHBX4n9lp5dpsTZmU8Ya_gCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", MULTIVISION SALTA
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/apMSrKP4Vh0-kXjo9LblAWXF1ECWRAePh4fbqp6mgqzvvafXFHzKI2uoZ2p7Og3GJb4" group-title="CENTRO", SPEED TV CONCORDIA
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8
-
-#EXTINF:-1 group-title="PAMPEANA", CANAL 12 TRENQUE LAUQUEN
-https://www.youtube.com/watch?v=c6L5QYQ8tEM
-
-#EXTINF:-1 group-title="PAMPEANA", VERTE TV OLAVARRIA
-https://www.youtube.com/watch?v=VwcXrb8AiCM
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NORTE", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NNKwN__O6ow/XjtC-7aspzI/AAAAAAAAvo0/v09wOJBPPlUnV3i75aEZ-ffQbViAKoXJACK8BGAsYHg/s0/2020-02-05.png" group-title="PATAGONIA", Canal 12 PUERTO MADRYN
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", QUATRO TV RIO CUARTO
-https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pSW2boY6Hdg/XvKY9iZvQuI/AAAAAAAA2MI/VIJZpl99EmwV71NgaYFHvYEPEsl3jzD3ACK8BGAsYHg/s0/2020-06-23.jpg" group-title="CENTRO", CANAL COOP JESUS MARIA CORDOBA
-https://panel.dattalive.com/8138/8138/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="CENTRO", CANAL 2 GUALEGUAY ENTRE RIOS
-https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/chunklist_w1994066237.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnB0c3RhY3J1emFwcHBybGw0Ni5jYW5hbDVwaWNvdHJ1bmNhZG9hcHBfc2NyZWVuXzJfMTUzMjM1ODEyOV8wNTE/screen-2.jpg?fakeurl=1&type=.jpg" group-title="PATAGONIA", CANAL 5 PICO TRUNCADO SANTA CRUZ
-http://streaming.arcast.com.ar:1935/canal5picotruncado/canal5picotruncado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Dwon9sRZsSY/Xjs6WmRFAaI/AAAAAAAAvnM/Zgcsd4pznrUNtvK8TghlckQw1YcLWnkdwCK8BGAsYHg/s0/2020-02-05.png" group-title="CENTRO", CL3 SANTA FE
-http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PAMPEANA", CELTV CANAL 2 TORNQUIST
-http://190.103.192.6:8080/hls/mystreamkey.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="NORTE", CEEL 4 MISIONES
-https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="NORTE", CANAL 9 NORTE MISIONES
-https://panel.dattalive.com/8076/8076/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2020/12/logo-web-retina-ok-si-300x99.png" group-title="PATAGONIA", CANAL 4 ESQUEL
-https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.infomedia24.com.ar/v2/wp-content/uploads/2017/04/logo-infomediax2.png" group-title="PATAGONIA", LM 24 RIO GALLEGOS
-https://59d52c5a5ce5e.streamlock.net:4443/infomedia/infomedia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tiketekarg.com/imagen/tike_vivo.jpeg" group-title="PATAGONIA", TiketekArg RIO GALLEGOS
-https://59d52c5a5ce5e.streamlock.net:4443/tiketekarg/tiketekarg/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cable10.com/imagenes/logo.png" group-title="PATAGONIA", CABLE 10 HD RIO GALLEGOS
-http://inliveserver.com:1935/8292/8292/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KJGE0TKvI_8/YGpDWfym42I/AAAAAAABBMo/Bs78lQAvh4AdpUgsZ1R4HYCav3pdLpAFACK8BGAsYHg/s512/2021-04-04.png" group-title="PATAGONIA", ZN NOTICIAS CALETA OLIVIA
-http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2018/03/logocanal3-x1.png" group-title="PATAGONIA", CANAL 3 LAS HERAS
-https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Rq2DueK3lUg/YGpFUPnkHlI/AAAAAAABBM8/jOvaiSnJ6cEVltniX8zDuD-Mv9hc-HwzwCK8BGAsYHg/s512/2021-04-04.jpg" group-title="CENTRO", TRIBU TV LAS VARILLAS CORDOBA
-https://5975e06a1f292.streamlock.net:4443/tributv/tributv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWoAtIdz70XOBYbpsiMug6PraWvCCVGQvNo6fEKq5jvaEttsrEZmotb9AsogSo3-vIjb4&usqp=CAU" group-title="CENTRO", VER TV VENADO TUERTO
-https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cablearmstrong.com.ar/wp-content/uploads/2018/11/cia-logox1.png" group-title="CENTRO", CABLE IMAGEN ARMSTRONG SANTA FE
-https://5975e06a1f292.streamlock.net:4443/casse/casse/chunklist_w1169271894.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQY_HK9O5T7Eaq_O2DNcf4tFtbLkqWOmleAzQ&usqp=CAU" group-title="CENTRO", PLAY TELEVISION SANTA FE
-http://videostream.shockmedia.com.ar:1935/playtelevision/playtelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://linktvcanal.com/portal/wp-content/uploads/2017/07/logo.png" group-title="CENTRO", LINK TV SANTA FE
-https://panel.dattalive.com/8128_1/8128_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/BmIhf8kYoobAlJbFrrdMKXDCaYmSwNnsXQT31wUD7wT342dw43uL-JWnPVH0-o4Jdhw=s180" group-title="NORTE", 12 TARTAGAL
-https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://canal8catamarca.com.ar/wp-content/uploads/2018/05/cropped-fondo0001.jpg" group-title="NORTE", CANAL 8 CATAMARCA
-https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE Y SERIES", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jE3Rb32vLEQ/XjtGJpQeqWI/AAAAAAAAvp4/P09Q1wK1oCwNhEhncQUUSJDGFBZzjErCwCK8BGAsYHg/s0/2020-02-05.png" group-title="MUSICA", TERRAMIA TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT1c3PyXIcqxuCOYCxhVbQDPPtRAmtzSY59g&usqp=CAU" group-title="MUSICA", CM
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
@@ -343,12 +45,6 @@ https://videohd.live:19360/8072/8072.m3u8
 
 #EXTINF:-1 tvg-logo="https://kpoptv.live/wp-content/uploads/2020/06/kpopsexy.png" group-title="MUSICA", SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivotvhd.com/img/cha/4308.gif" group-title="MUSICA", TV POP
-https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45116_Portal_FoxMix.png" group-title="MUSICA", PORTALFOXMIX
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
 #EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d5dd6f15-1fc2-46d0-b45e-57f4c5c897c6-small3x1_EPGLogoSTIRR_Logo_0420_Classica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="MUSICA", STINGRAY CLASSICA
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
@@ -1296,83 +992,4 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8?hdnts=st=15598451
 
 #EXTINF:0,Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8?hdnts=st=1564227924~exp=1564314324~acl=/*~hmac=98bf7f8b6e1d65254efde4c3350f77d0e01d778d5e86abffd3ff244df230faad&mux_audio=true
-
-
-#EXTINF:-1 tvg-ID="Sky Sport24HD" tvg-name="Sky Sport 24 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sport24.png" group-title="Sport HD",Sky Sport 24 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2159
-#EXTINF:-1 tvg-ID="Sky Sport24HD" tvg-name="Sky Sport 24 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sport24.png" group-title="Sport HD",Sky Sport 24 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24105
-#EXTINF:-1 tvg-ID="Sky Sport Uno HD" tvg-name="Sky Sport Uno Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportuno.png" group-title="Sport HD",Sky Sport Uno Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/48312
-#EXTINF:-1 tvg-ID="Sky Sport Uno HD" tvg-name="Sky Sport Uno SD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportuno.png" group-title="Sport HD",Sky Sport Uno SD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/8585
-#EXTINF:-1 tvg-ID="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio.png" group-title="Sport HD",Sky Sport Calcio HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2108
-#EXTINF:-1 tvg-ID="Sky Sport Calcio HD" tvg-name="Sky Sport Calcio Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio.png" group-title="Sport HD",Sky Sport Calcio Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/29258
-#EXTINF:-1 tvg-ID="Sky Sport Football HD" tvg-name="Sky Sport Football HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportfootball.png" group-title="Sport HD",Sky Sport Football HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/11
-#EXTINF:-1 tvg-ID="Sky Sport Football HD" tvg-name="Sky Sport Football Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportfootball.png" group-title="Sport HD",Sky Sport Football Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/106
-#EXTINF:-1 tvg-ID="Sky Sport Arena HD" tvg-name="Sky Sport Arena HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportarena.png" group-title="Sport HD",Sky Sport Arena HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2106
-#EXTINF:-1 tvg-ID="Sky Sport Arena HD" tvg-name="Sky Sport Arena Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportarena.png" group-title="Sport HD",Sky Sport Arena Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24107
-#EXTINF:-1 tvg-ID="SportTennisHD" tvg-name="Sky Sport Tennis HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sporttennis.png" group-title="Sport HD",Sky Sport Tennis HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2175
-#EXTINF:-1 tvg-ID="SportTennisHD" tvg-name="Sky Sport Tennis Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sporttennis.png" group-title="Sport HD",Sky Sport Tennis Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24153
-#EXTINF:-1 tvg-ID="Sky Sport MotoGP HD" tvg-name="Sky Sport Moto GP HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/motogp.png" group-title="Sport HD",Sky Sport Moto GP HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2161
-#EXTINF:-1 tvg-ID="Sky Sport MotoGP HD" tvg-name="Sky Sport Moto GP Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/motogp.png" group-title="Sport HD",Sky Sport Moto GP Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24150
-#EXTINF:-1 tvg-ID="Sky Sport NBA HD" tvg-name="Sky Sport NBA HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportnba.png" group-title="Sport HD",Sky Sport NBA HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2160
-#EXTINF:-1 tvg-ID="Sky Sport NBA HD" tvg-name="Sky Sport NBA Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/sportnba.png" group-title="Sport HD",Sky Sport NBA Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24149
-#EXTINF:-1 tvg-ID="" tvg-name="Sportitalia Solo Calcio" tvg-logo="http://webtv.aystream.video/webtv/loghi/solocalcio.png" group-title="Sport HD",Sportitalia Solo Calcio
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/1923
-#EXTINF:-1 tvg-ID="Sky Sport 254 HD" tvg-name="Sky Sport 254 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio4.png" group-title="SKY Calcio",Sky Sport 254 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2169
-#EXTINF:-1 tvg-ID="Sky Sport 254 HD" tvg-name="Sky Sport 254 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio4.png" group-title="SKY Calcio",Sky Sport 254 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/29250
-#EXTINF:-1 tvg-ID="Sky Sport 253 HD" tvg-name="Sky Sport 253 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio3.png" group-title="SKY Calcio",Sky Sport 253 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2168
-#EXTINF:-1 tvg-ID="Sky Sport 253 HD" tvg-name="Sky Sport 253 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio3.png" group-title="SKY Calcio",Sky Sport 253 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24299
-#EXTINF:-1 tvg-ID="Sky Sport 252 HD" tvg-name="Sky Sport 252 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio2.png" group-title="SKY Calcio",Sky Sport 252 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/2164
-#EXTINF:-1 tvg-ID="Sky Sport 252 HD" tvg-name="Sky Sport 252 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/skycalcio2.png" group-title="SKY Calcio",Sky Sport 252 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/24300
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Serie A 1 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/seriea.png" group-title="SKY Calcio",Sky Sport Serie A 1 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146389
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport Serie A 1 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/seriea.png" group-title="SKY Calcio",Sky Sport Serie A 1 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146390
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 257 HD" tvg-logo="" group-title="SKY Calcio",Sky Sport 257 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/147475
-#EXTINF:-1 tvg-ID="" tvg-name="Sky Sport 257 Full HD" tvg-logo="" group-title="SKY Calcio",Sky Sport 257 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/147476
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn Channel HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146381
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn Channel Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn Channel Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146382
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 2 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 2 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146332
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 2 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 2 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146331
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 3 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 3 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146335
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 3 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 3 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146334
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 4 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 4 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146338
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 4 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 4 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146337
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 7 HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 7 HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146347
-#EXTINF:-1 tvg-ID="" tvg-name="Dazn 7 Full HD" tvg-logo="http://webtv.aystream.video/webtv/loghi/dazn.png" group-title="DAZN Sport",Dazn 7 Full HD
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/146346
-#EXTINF:-1 tvg-ID="" tvg-name="Canale 85" tvg-logo="" group-title="Regionali",Canale 85
-http://cdn.ayproviders.xyz:80/eWTzp0Lluo/80457wNClw/86592
-
 
