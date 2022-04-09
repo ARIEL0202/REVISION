@@ -1,172 +1,112 @@
-#EXTINF:-1 tvg-id="" tvg-name="COL | AMC HD 1080P" tvg-logo="" group-title="Colombia",COL | AMC HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329419
-#EXTINF:-1 tvg-id="" tvg-name="COL | ANIMAL PLANET HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Colombia",COL | ANIMAL PLANET HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329420
-#EXTINF:-1 tvg-id="" tvg-name="COL | ANTENA3 HD 1080P" tvg-logo="" group-title="Colombia",COL | ANTENA3 HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329422
-#EXTINF:-1 tvg-id="" tvg-name="COL | ANTV" tvg-logo="" group-title="Colombia",COL | ANTV
-http://170222.1222908.net:2086/arsenio/arsenio/329423
-#EXTINF:-1 tvg-id="" tvg-name="COL | Directv Sports HD" tvg-logo="" group-title="Colombia",COL | Directv Sports HD
-http://170222.1222908.net:2086/arsenio/arsenio/329424
-#EXTINF:-1 tvg-id="" tvg-name="COL | AXN HD 1080P" tvg-logo="" group-title="Colombia",COL | AXN HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329425
-#EXTINF:-1 tvg-id="" tvg-name="COL | AZCORAZON HD 1080P" tvg-logo="" group-title="Colombia",COL | AZCORAZON HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329426
-#EXTINF:-1 tvg-id="" tvg-name="COL | AZMUNDO HD 1080P" tvg-logo="" group-title="Colombia",COL | AZMUNDO HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329427
-#EXTINF:-1 tvg-id="" tvg-name="COL | BABYTV HD 1080P" tvg-logo="" group-title="Colombia",COL | BABYTV HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329428
-#EXTINF:-1 tvg-id="" tvg-name="COL | BBC WORLD HD 1080P" tvg-logo="" group-title="Colombia",COL | BBC WORLD HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329429
-#EXTINF:-1 tvg-id="" tvg-name="COL | BBC WORLD NEWS HD 1080P" tvg-logo="" group-title="Colombia",COL | BBC WORLD NEWS HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329430
-#EXTINF:-1 tvg-id="" tvg-name="COL | BLOOMBERG HD 1080P" tvg-logo="" group-title="Colombia",COL | BLOOMBERG HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329431
-#EXTINF:-1 tvg-id="" tvg-name="COL | BOOMERANG HD 1080P" tvg-logo="" group-title="Colombia",COL | BOOMERANG HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329432
-#EXTINF:-1 tvg-id="" tvg-name="COL | CABLENOTICIAS HD 1080P" tvg-logo="" group-title="Colombia",COL | CABLENOTICIAS HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329433
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CLARO HD 1080P" tvg-logo="" group-title="Colombia",COL | CANAL CLARO HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329434
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL DE LAS ESTRELLAS HD 1080P" tvg-logo="" group-title="Colombia",COL | CANAL DE LAS ESTRELLAS HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329435
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL TRO HD" tvg-logo="" group-title="Colombia",COL | CANAL TRO HD
-http://170222.1222908.net:2086/arsenio/arsenio/329436
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARACOL HD 1080P" tvg-logo="" group-title="Colombia",COL | CARACOL HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329437
-#EXTINF:-1 tvg-id="" tvg-name="COL | CARTOON NETWORK HD 1080P" tvg-logo="" group-title="Colombia",COL | CARTOON NETWORK HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329439
-#EXTINF:-1 tvg-id="" tvg-name="COL | CINECANAL HD 1080P" tvg-logo="" group-title="Colombia",COL | CINECANAL HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329440
-#EXTINF:-1 tvg-id="" tvg-name="COL | CINELATINO HD" tvg-logo="" group-title="Colombia",COL | CINELATINO HD
-http://170222.1222908.net:2086/arsenio/arsenio/329441
-#EXTINF:-1 tvg-id="" tvg-name="COL | CINEMA DINAMITA HD" tvg-logo="" group-title="Colombia",COL | CINEMA DINAMITA HD
-http://170222.1222908.net:2086/arsenio/arsenio/329442
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports SE HD" tvg-logo="" group-title="Sport Exclusive",USA | Bally Sports SE HD
-http://170222.1222908.net:2086/arsenio/arsenio/329443
-#EXTINF:-1 tvg-id="" tvg-name="COL | CINEMAX HD 1080P" tvg-logo="" group-title="Colombia",COL | CINEMAX HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329444
-#EXTINF:-1 tvg-id="" tvg-name="COL | CITY NOTICIAS HD" tvg-logo="" group-title="Colombia",COL | CITY NOTICIAS HD
-http://170222.1222908.net:2086/arsenio/arsenio/329445
-#EXTINF:-1 tvg-id="" tvg-name="COL | CLARO CINEMA HD" tvg-logo="" group-title="Colombia",COL | CLARO CINEMA HD
-http://170222.1222908.net:2086/arsenio/arsenio/329446
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports SW HD" tvg-logo="" group-title="Sport Exclusive",USA | Bally Sports SW HD
-http://170222.1222908.net:2086/arsenio/arsenio/329447
-#EXTINF:-1 tvg-id="" tvg-name="COL | CLARO MUSICA HD 1080P" tvg-logo="" group-title="Colombia",COL | CLARO MUSICA HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329448
-#EXTINF:-1 tvg-id="" tvg-name="Latino | CLARO SPORT HD 1080P" tvg-logo="" group-title="Sport Exclusive",Latino | CLARO SPORT HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329449
-#EXTINF:-1 tvg-id="" tvg-name="COL | CLARO SPORTS LATAM HD 1080P" tvg-logo="" group-title="Colombia",COL | CLARO SPORTS LATAM HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329450
-#EXTINF:-1 tvg-id="" tvg-name="COL | CNN ESPANOL HD" tvg-logo="" group-title="Colombia",COL | CNN ESPANOL HD
-http://170222.1222908.net:2086/arsenio/arsenio/329451
-#EXTINF:-1 tvg-id="" tvg-name="COL | CNN INTERNACIONAL HD" tvg-logo="" group-title="Colombia",COL | CNN INTERNACIONAL HD
-http://170222.1222908.net:2086/arsenio/arsenio/329452
-#EXTINF:-1 tvg-id="" tvg-name="COL | COMEDY CENTRAL HD 1080P" tvg-logo="" group-title="Colombia",COL | COMEDY CENTRAL HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329453
-#EXTINF:-1 tvg-id="" tvg-name="COL | CONCERT CHANNEL HD 1080P" tvg-logo="" group-title="Colombia",COL | CONCERT CHANNEL HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329454
-#EXTINF:-1 tvg-id="" tvg-name="COL | CRISTOVISION HD" tvg-logo="" group-title="Colombia",COL | CRISTOVISION HD
-http://170222.1222908.net:2086/arsenio/arsenio/329455
-#EXTINF:-1 tvg-id="" tvg-name="COL | DATAIFX HD" tvg-logo="" group-title="Colombia",COL | DATAIFX HD
-http://170222.1222908.net:2086/arsenio/arsenio/329456
-#EXTINF:-1 tvg-id="" tvg-name="COL | DE PELICULA HD 1080P" tvg-logo="" group-title="Colombia",COL | DE PELICULA HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329457
-#EXTINF:-1 tvg-id="" tvg-name="COL | DHE HD 1080P" tvg-logo="" group-title="Colombia",COL | DHE HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329458
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY CHANNEL HD 1080P" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="Colombia",COL | DISCOVERY CHANNEL HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329459
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY CIVILIZATION HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilizationb.png" group-title="Colombia",COL | DISCOVERY CIVILIZATION HD
-http://170222.1222908.net:2086/arsenio/arsenio/329461
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY H&H HD 1080P" tvg-logo="https://www.lamac.org/system/channels_logos/logos/000/000/027/original/pic_home_health.png?1523887765" group-title="Colombia",COL | DISCOVERY H&H HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329462
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY KIDS HD 1080P" tvg-logo="" group-title="Colombia",COL | DISCOVERY KIDS HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329464
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY SCIENCE HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="Colombia",COL | DISCOVERY SCIENCE HD
-http://170222.1222908.net:2086/arsenio/arsenio/329466
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY THEATER HD 1080P" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_HD_Theather_2013.png/revision/latest?cb=20170325195850" group-title="Colombia",COL | DISCOVERY THEATER HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329468
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY TURBO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Colombia",COL | DISCOVERY TURBO HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329470
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISCOVERY WORLD HD 1080P" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_D_posmed.jpg" group-title="Colombia",COL | DISCOVERY WORLD HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329472
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISNEY HD 1080P" tvg-logo="" group-title="Colombia",COL | DISNEY HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329474
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISNEY JR HD 1080P" tvg-logo="" group-title="Colombia",COL | DISNEY JR HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329476
-#EXTINF:-1 tvg-id="" tvg-name="COL | DISNEY XD HD 1080P" tvg-logo="" group-title="Colombia",COL | DISNEY XD HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329478
-#EXTINF:-1 tvg-id="" tvg-name="COL | DW" tvg-logo="" group-title="Colombia",COL | DW
-http://170222.1222908.net:2086/arsenio/arsenio/329480
-#EXTINF:-1 tvg-id="" tvg-name="COL | Caracol Nacional FHD" tvg-logo="" group-title="Colombia",COL | Caracol Nacional FHD
-http://170222.1222908.net:2086/arsenio/arsenio/329481
-#EXTINF:-1 tvg-id="" tvg-name="COL | E! HD 1080P" tvg-logo="" group-title="Colombia",COL | E! HD 1080P
-http://170222.1222908.net:2086/arsenio/arsenio/329482
-#EXTINF:-1 tvg-id="" tvg-name="COL | EL SEMBRADOR HD" tvg-logo="" group-title="Colombia",COL | EL SEMBRADOR HD
-http://170222.1222908.net:2086/arsenio/arsenio/329483
-#EXTINF:-1 tvg-id="" tvg-name="COL | ENLACE HD" tvg-logo="" group-title="Colombia",COL | ENLACE HD
-http://170222.1222908.net:2086/arsenio/arsenio/329484
-#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports South HD" tvg-logo="" group-title="Sport Exclusive",USA | Bally Sports South HD
-http://170222.1222908.net:2086/arsenio/arsenio/329485
-#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaLJkA3T0KQBxvnFhTfWs9d9aLs3K1ZwbOk0mSGhVtlka61kg&s" group-title="Colombia",COL | ESPN 2
-http://170222.1222908.net:2086/arsenio/arsenio/329487
-#EXTINF:-1 tvg-id="" tvg-name="COL | ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREaLJkA3T0KQBxvnFhTfWs9d9aLs3K1ZwbOk0mSGhVtlka61kg&s" group-title="Colombia",COL | ESPN 3
-http://170222.1222908.net:2086/arsenio/arsenio/329488
-#EXTINF:-1 tvg-id="" tvg-name="COL | EUROCHANNEL" tvg-logo="" group-title="Colombia",COL | EUROCHANNEL
-http://170222.1222908.net:2086/arsenio/arsenio/329489
-#EXTINF:-1 tvg-id="" tvg-name="COL | EWTN" tvg-logo="" group-title="Colombia",COL | EWTN
-http://170222.1222908.net:2086/arsenio/arsenio/329490
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX ACTION HD" tvg-logo="" group-title="Colombia",COL | FOX ACTION HD
-http://170222.1222908.net:2086/arsenio/arsenio/329491
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX CINEMA HD" tvg-logo="" group-title="Colombia",COL | FOX CINEMA HD
-http://170222.1222908.net:2086/arsenio/arsenio/329492
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX CLASSICS HD" tvg-logo="" group-title="Colombia",COL | FOX CLASSICS HD
-http://170222.1222908.net:2086/arsenio/arsenio/329493
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX COMEDY HD" tvg-logo="" group-title="Colombia",COL | FOX COMEDY HD
-http://170222.1222908.net:2086/arsenio/arsenio/329494
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX FAMILY HD" tvg-logo="" group-title="Colombia",COL | FOX FAMILY HD
-http://170222.1222908.net:2086/arsenio/arsenio/329495
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX HD" tvg-logo="" group-title="Colombia",COL | FOX HD
-http://170222.1222908.net:2086/arsenio/arsenio/329496
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX LIFE HD" tvg-logo="" group-title="Colombia",COL | FOX LIFE HD
-http://170222.1222908.net:2086/arsenio/arsenio/329497
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX MOVIES HD" tvg-logo="" group-title="Colombia",COL | FOX MOVIES HD
-http://170222.1222908.net:2086/arsenio/arsenio/329498
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX PREMIUM ACTION" tvg-logo="" group-title="Colombia",COL | FOX PREMIUM ACTION
-http://170222.1222908.net:2086/arsenio/arsenio/329499
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX PREMIUM FAMILY" tvg-logo="" group-title="Colombia",COL | FOX PREMIUM FAMILY
-http://170222.1222908.net:2086/arsenio/arsenio/329500
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX PREMIUM MOVIES" tvg-logo="" group-title="Colombia",COL | FOX PREMIUM MOVIES
-http://170222.1222908.net:2086/arsenio/arsenio/329501
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SERIES" tvg-logo="" group-title="Colombia",COL | FOX SERIES
-http://170222.1222908.net:2086/arsenio/arsenio/329502
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORT 2" tvg-logo="" group-title="Colombia",COL | FOX SPORT 2
-http://170222.1222908.net:2086/arsenio/arsenio/329503
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORT 2 MX" tvg-logo="" group-title="Colombia",COL | FOX SPORT 2 MX
-http://170222.1222908.net:2086/arsenio/arsenio/329504
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORT 3 MX" tvg-logo="" group-title="Colombia",COL | FOX SPORT 3 MX
-http://170222.1222908.net:2086/arsenio/arsenio/329505
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORTS" tvg-logo="https://f0.pngfuel.com/png/617/948/a-league-fox-sports-networks-television-fox-sports-2-png-clip-art.png" group-title="Colombia",COL | FOX SPORTS
-http://170222.1222908.net:2086/arsenio/arsenio/329506
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORTS 1 MX" tvg-logo="https://coiski.com/staging/wp-content/uploads/2017/05/Logo_fox_sports_2012.png" group-title="Colombia",COL | FOX SPORTS 1 MX
-http://170222.1222908.net:2086/arsenio/arsenio/329507
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOX SPORTS 3" tvg-logo="https://i.pinimg.com/originals/b3/08/8c/b3088cdf394935e26f9e9da5be7cd946.png" group-title="Colombia",COL | FOX SPORTS 3
-http://170222.1222908.net:2086/arsenio/arsenio/329508
-#EXTINF:-1 tvg-id="" tvg-name="COL | FOXNEWS" tvg-logo="" group-title="Colombia",COL | FOXNEWS
-http://170222.1222908.net:2086/arsenio/arsenio/329509
-#EXTINF:-1 tvg-id="" tvg-name="COL | FRANCE24" tvg-logo="" group-title="Colombia",COL | FRANCE24
-http://170222.1222908.net:2086/arsenio/arsenio/329510
-#EXTINF:-1 tvg-id="" tvg-name="COL | FX HD" tvg-logo="" group-title="Colombia",COL | FX HD
-http://170222.1222908.net:2086/arsenio/arsenio/329511
-#EXTINF:-1 tvg-id="" tvg-name="COL | FXM" tvg-logo="" group-title="Colombia",COL | FXM
-http://170222.1222908.net:2086/arsenio/arsenio/329512
-#EXTINF:-1 tvg-id="" tvg-name="COL | GLITZ" tvg-logo="" group-title="Colombia",COL | GLITZ
-http://170222.1222908.net:2086/arsenio/arsenio/329513
-#EXTINF:-1 tvg-id="" tvg-name="COL | GOLDEN HD" tvg-logo="" group-title="Colombia",COL | GOLDEN HD
-http://170222.1222908.net:2086/arsenio/arsenio/329514
-#EXTINF:-1 tvg-id="" tvg-name="COL | GOLDEN PLUS" tvg-logo="" group-title="Colombia",COL | GOLDEN PLUS
-http://170222.1222908.net:2086/arsenio/arsenio/329515
-#EXTINF:-1 tvg-id="" tvg-name="COL | GOLDEN PREMIER HD" tvg-logo="" group-title="Colombia",COL | GOLDEN PREMIER HD
-http://170222.1222908.net:2086/arsenio/arsenio/329516
-#EXTINF:-1 tvg-id="" tvg-name="COL | Win Sports HD" tvg-logo="" group-title="Colombia",COL | Win Sports HD
-http://170222.1222908.net:2086/arsenio/arsenio/333837
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES | 24 HORAS" tvg-logo="" group-title="Spain",ES | 24 HORAS
+http://170222.1222908.net:2086/arsenio/arsenio/323592
+#EXTINF:-1 tvg-id="aande.es" tvg-name="ES | A&E" tvg-logo="" group-title="Spain",ES | A&E
+http://170222.1222908.net:2086/arsenio/arsenio/323593
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES | ANTENA 3 HD" tvg-logo="" group-title="Spain",ES | ANTENA 3 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323594
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES | AXN HD 1080P" tvg-logo="" group-title="Spain",ES | AXN HD 1080P
+http://170222.1222908.net:2086/arsenio/arsenio/323595
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES | BABY TV" tvg-logo="" group-title="Spain",ES | BABY TV
+http://170222.1222908.net:2086/arsenio/arsenio/323596
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="ES | BEIN LA LIGA 123 HD" tvg-logo="" group-title="Spain",ES | BEIN LA LIGA 123 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323597
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="ES | BEINSPORTS HD" tvg-logo="" group-title="Spain",ES | BEINSPORTS HD
+http://170222.1222908.net:2086/arsenio/arsenio/323598
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES | CALLE 13 HD" tvg-logo="" group-title="Spain",ES | CALLE 13 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323599
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES | CAZA & PESCA HD" tvg-logo="" group-title="Spain",ES | CAZA & PESCA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323601
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES | COMEDY CENTRAL HD" tvg-logo="" group-title="Spain",ES | COMEDY CENTRAL HD
+http://170222.1222908.net:2086/arsenio/arsenio/323602
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES | CUATRO HD" tvg-logo="" group-title="Spain",ES | CUATRO HD
+http://170222.1222908.net:2086/arsenio/arsenio/323603
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES | DISCOVERY CHANNEL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092015/dsc_lockup-04.png?itok=8LRE6_Zf" group-title="Spain",ES | DISCOVERY CHANNEL
+http://170222.1222908.net:2086/arsenio/arsenio/323604
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES | DISNEY CHANNEL HD" tvg-logo="" group-title="Spain",ES | DISNEY CHANNEL HD
+http://170222.1222908.net:2086/arsenio/arsenio/323605
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES | DISNEY JR" tvg-logo="" group-title="Spain",ES | DISNEY JR
+http://170222.1222908.net:2086/arsenio/arsenio/323606
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="ES | DISNEY XD" tvg-logo="" group-title="Spain",ES | DISNEY XD
+http://170222.1222908.net:2086/arsenio/arsenio/323607
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES | DIVINITY" tvg-logo="" group-title="Spain",ES | DIVINITY
+http://170222.1222908.net:2086/arsenio/arsenio/323608
+#EXTINF:-1 tvg-id="" tvg-name="EC | ECUAVISA" tvg-logo="" group-title="Ecuador",EC | ECUAVISA
+http://170222.1222908.net:2086/arsenio/arsenio/323609
+#EXTINF:-1 tvg-id="" tvg-name="EC | TVC ECUADOR" tvg-logo="" group-title="Ecuador",EC | TVC ECUADOR
+http://170222.1222908.net:2086/arsenio/arsenio/323610
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES | FOX HD" tvg-logo="" group-title="Spain",ES | FOX HD
+http://170222.1222908.net:2086/arsenio/arsenio/323611
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES | FOX LIFE" tvg-logo="" group-title="Spain",ES | FOX LIFE
+http://170222.1222908.net:2086/arsenio/arsenio/323612
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES | HISTORIA" tvg-logo="" group-title="Spain",ES | HISTORIA
+http://170222.1222908.net:2086/arsenio/arsenio/323613
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD" tvg-logo="" group-title="Spain",ES | HOLLYWOOD
+http://170222.1222908.net:2086/arsenio/arsenio/323614
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | LA 1 HD" tvg-logo="" group-title="Spain",ES | LA 1 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323615
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES | LA 2" tvg-logo="" group-title="Spain",ES | LA 2
+http://170222.1222908.net:2086/arsenio/arsenio/323616
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES | LA SEXTA HD" tvg-logo="" group-title="Spain",ES | LA SEXTA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323617
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES | MEGA" tvg-logo="" group-title="Spain",ES | MEGA
+http://170222.1222908.net:2086/arsenio/arsenio/323618
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES | MOVISTAR  ACCION HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  ACCION HD
+http://170222.1222908.net:2086/arsenio/arsenio/323619
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES | MOVISTAR  CINE ESPANOL" tvg-logo="" group-title="Spain",ES | MOVISTAR  CINE ESPANOL
+http://170222.1222908.net:2086/arsenio/arsenio/323620
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES | MOVISTAR  CINEDOC&ROLL HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  CINEDOC&ROLL HD
+http://170222.1222908.net:2086/arsenio/arsenio/323633
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES | MOVISTAR  COMEDIA HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  COMEDIA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323621
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="ES | MOVISTAR  DCINE HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  DCINE HD
+http://170222.1222908.net:2086/arsenio/arsenio/323622
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR  DEPORTES 2 HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  DEPORTES 2 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323623
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR  DEPORTES HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  DEPORTES HD
+http://170222.1222908.net:2086/arsenio/arsenio/323634
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR  DISNEY" tvg-logo="" group-title="Spain",ES | MOVISTAR  DISNEY
+http://170222.1222908.net:2086/arsenio/arsenio/323635
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR  DRAMA HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  DRAMA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323636
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES | MOVISTAR  ESTRENOS HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  ESTRENOS HD
+http://170222.1222908.net:2086/arsenio/arsenio/323624
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES | MOVISTAR  FORMULA1 HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  FORMULA1 HD
+http://170222.1222908.net:2086/arsenio/arsenio/323625
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR  FUTBOL HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  FUTBOL HD
+http://170222.1222908.net:2086/arsenio/arsenio/323626
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES | MOVISTAR  GOLF HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  GOLF HD
+http://170222.1222908.net:2086/arsenio/arsenio/323627
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="USA | Bally Sports TN HD" tvg-logo="" group-title="Sport Exclusive",USA | Bally Sports TN HD
+http://170222.1222908.net:2086/arsenio/arsenio/323628
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR  TOROS HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  TOROS HD
+http://170222.1222908.net:2086/arsenio/arsenio/323637
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES | MOVISTAR  XTRA HD" tvg-logo="" group-title="Spain",ES | MOVISTAR  XTRA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323629
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES | MOVISTAR SERIES HD" tvg-logo="" group-title="Spain",ES | MOVISTAR SERIES HD
+http://170222.1222908.net:2086/arsenio/arsenio/323630
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES | MOVISTAR SERIES XTRA" tvg-logo="" group-title="Spain",ES | MOVISTAR SERIES XTRA
+http://170222.1222908.net:2086/arsenio/arsenio/323631
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES | MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="Spain",ES | MOVISTAR SERIESMANIA HD
+http://170222.1222908.net:2086/arsenio/arsenio/323632
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES | NAT GEO WILD HD" tvg-logo="https://www.redlinegrafik.com/Uploads/UrunResimleri/buyuk/national-geographic-wild-siyah-sticker-361f.jpg" group-title="Spain",ES | NAT GEO WILD HD
+http://170222.1222908.net:2086/arsenio/arsenio/323638
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES | NAT GEOGRAPHIC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7SeDD0qhZzq-ft60JoF78GbMNM5q6rruUKAU4xM5BNhcZ5OG&s" group-title="Spain",ES | NAT GEOGRAPHIC HD
+http://170222.1222908.net:2086/arsenio/arsenio/323639
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES | NICKELODEON HD" tvg-logo="" group-title="Spain",ES | NICKELODEON HD
+http://170222.1222908.net:2086/arsenio/arsenio/323640
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES | PARAMOUNT CHANNEL" tvg-logo="" group-title="Spain",ES | PARAMOUNT CHANNEL
+http://170222.1222908.net:2086/arsenio/arsenio/323641
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES | REAL MADRID TV" tvg-logo="" group-title="Spain",ES | REAL MADRID TV
+http://170222.1222908.net:2086/arsenio/arsenio/323642
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES | SYFY HD" tvg-logo="" group-title="Spain",ES | SYFY HD
+http://170222.1222908.net:2086/arsenio/arsenio/323643
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES | TCM" tvg-logo="" group-title="Spain",ES | TCM
+http://170222.1222908.net:2086/arsenio/arsenio/323644
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES | TELECINCO HD" tvg-logo="" group-title="Spain",ES | TELECINCO HD
+http://170222.1222908.net:2086/arsenio/arsenio/323645
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES | TNT" tvg-logo="" group-title="Spain",ES | TNT
+http://170222.1222908.net:2086/arsenio/arsenio/323646
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="ES | VIAJAR HD" tvg-logo="" group-title="Spain",ES | VIAJAR HD
+http://170222.1222908.net:2086/arsenio/arsenio/323647
+
+
